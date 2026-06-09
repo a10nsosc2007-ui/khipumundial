@@ -1,0 +1,343 @@
+{
+  "name": "Mundial 48",
+  "country": "Internacional",
+  "logo": "https://url-del-logo-oficial-del-mundial.png",
+  "teams": {
+    "MÉXICO": {
+      "name": "MÉXICO",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#006847",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#006847"
+    },
+    "SUDÁFRICA": {
+      "name": "SUDÁFRICA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFB81C",
+      "numberColor": "#007749",
+      "shieldColor": "#007749"
+    },
+    "COREA DEL SUR": {
+      "name": "COREA DEL SUR",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#C60C30",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#C60C30"
+    },
+    "CHEQUIA": {
+      "name": "CHEQUIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#D7141A",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#11457E"
+    },
+    "CANADÁ": {
+      "name": "CANADÁ",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FF0000",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#FF0000"
+    },
+    "BOSNIA": {
+      "name": "BOSNIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#002395",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#002395"
+    },
+    "QATAR": {
+      "name": "QATAR",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#8A1538",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#8A1538"
+    },
+    "SUIZA": {
+      "name": "SUIZA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FF0000",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#FF0000"
+    },
+    "BRASIL": {
+      "name": "BRASIL",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFDF00",
+      "numberColor": "#009B3A",
+      "shieldColor": "#009B3A"
+    },
+    "MARRUECOS": {
+      "name": "MARRUECOS",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#C1272D",
+      "numberColor": "#006233",
+      "shieldColor": "#C1272D"
+    },
+    "HAITÍ": {
+      "name": "HAITÍ",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#00205B",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#D21034"
+    },
+    "ESCOCIA": {
+      "name": "ESCOCIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#001489",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#001489"
+    },
+    "EE.UU.": {
+      "name": "EE.UU.",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#002868",
+      "shieldColor": "#002868"
+    },
+    "PARAGUAY": {
+      "name": "PARAGUAY",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#D52B1E",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#0038A8"
+    },
+    "AUSTRALIA": {
+      "name": "AUSTRALIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFD700",
+      "numberColor": "#006400",
+      "shieldColor": "#FFD700"
+    },
+    "TURQUÍA": {
+      "name": "TURQUÍA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#E30A17",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#E30A17"
+    },
+    "ALEMANIA": {
+      "name": "ALEMANIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#000000",
+      "shieldColor": "#DD0000"
+    },
+    "CURAZAO": {
+      "name": "CURAZAO",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#002B7F",
+      "numberColor": "#F9E814",
+      "shieldColor": "#002B7F"
+    },
+    "COSTA DE MARFIL": {
+      "name": "COSTA DE MARFIL",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FF8200",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#FF8200"
+    },
+    "ECUADOR": {
+      "name": "ECUADOR",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFD100",
+      "numberColor": "#00205B",
+      "shieldColor": "#FFD100"
+    },
+    "PAÍSES BAJOS": {
+      "name": "PAÍSES BAJOS",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#F36C21",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#F36C21"
+    },
+    "JAPÓN": {
+      "name": "JAPÓN",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#000555",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#000555"
+    },
+    "SUECIA": {
+      "name": "SUECIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFC90E",
+      "numberColor": "#004B87",
+      "shieldColor": "#004B87"
+    },
+    "TÚNEZ": {
+      "name": "TÚNEZ",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#E70013",
+      "shieldColor": "#E70013"
+    },
+    "BÉLGICA": {
+      "name": "BÉLGICA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#E30613",
+      "numberColor": "#FFD700",
+      "shieldColor": "#E30613"
+    },
+    "EGIPTO": {
+      "name": "EGIPTO",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#CE1126",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#CE1126"
+    },
+    "IRÁN": {
+      "name": "IRÁN",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#DA0000",
+      "shieldColor": "#239F40"
+    },
+    "NUEVA ZELANDA": {
+      "name": "NUEVA ZELANDA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#000000",
+      "shieldColor": "#000000"
+    },
+    "ESPAÑA": {
+      "name": "ESPAÑA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#AA151B",
+      "numberColor": "#F1BF00",
+      "shieldColor": "#AA151B"
+    },
+    "CABO VERDE": {
+      "name": "CABO VERDE",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#003893",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#003893"
+    },
+    "ARABIA SAUDITA": {
+      "name": "ARABIA SAUDITA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#006C35",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#006C35"
+    },
+    "URUGUAY": {
+      "name": "URUGUAY",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#5CB8E4",
+      "numberColor": "#000000",
+      "shieldColor": "#5CB8E4"
+    },
+    "FRANCIA": {
+      "name": "FRANCIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#002395",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#002395"
+    },
+    "SENEGAL": {
+      "name": "SENEGAL",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#00853F",
+      "shieldColor": "#00853F"
+    },
+    "IRAK": {
+      "name": "IRAK",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#007A3D",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#007A3D"
+    },
+    "NORUEGA": {
+      "name": "NORUEGA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#BA0C2F",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#00205B"
+    },
+    "ARGENTINA": {
+      "name": "ARGENTINA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#75AADB",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#75AADB"
+    },
+    "ARGELIA": {
+      "name": "ARGELIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#006C35",
+      "shieldColor": "#006C35"
+    },
+    "AUSTRIA": {
+      "name": "AUSTRIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#ED2939",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#ED2939"
+    },
+    "JORDANIA": {
+      "name": "JORDANIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#CE1126",
+      "shieldColor": "#CE1126"
+    },
+    "PORTUGAL": {
+      "name": "PORTUGAL",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FF0000",
+      "numberColor": "#F4A900",
+      "shieldColor": "#006600"
+    },
+    "RD CONGO": {
+      "name": "RD CONGO",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#007FFF",
+      "numberColor": "#F7D116",
+      "shieldColor": "#CE1021"
+    },
+    "UZBEKISTÁN": {
+      "name": "UZBEKISTÁN",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#0099B5",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#0099B5"
+    },
+    "COLOMBIA": {
+      "name": "COLOMBIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FCD116",
+      "numberColor": "#003893",
+      "shieldColor": "#FCD116"
+    },
+    "INGLATERRA": {
+      "name": "INGLATERRA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#CE1126",
+      "shieldColor": "#00247D"
+    },
+    "CROACIA": {
+      "name": "CROACIA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#FF0000",
+      "shieldColor": "#00205B"
+    },
+    "GHANA": {
+      "name": "GHANA",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#FFFFFF",
+      "numberColor": "#000000",
+      "shieldColor": "#CE1126"
+    },
+    "PANAMÁ": {
+      "name": "PANAMÁ",
+      "logoUrl": "URL_ESCUDO_AQUI",
+      "jerseyColor": "#DA291C",
+      "numberColor": "#FFFFFF",
+      "shieldColor": "#00205B"
+    }
+  }
+}

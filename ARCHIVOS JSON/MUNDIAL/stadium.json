@@ -1,0 +1,164 @@
+{
+  "matriz_datos_algoritmicos_2026": [
+    {
+      "estadio": "Estadio Azteca",
+      "ciudad": "Ciudad de México, México",
+      "altitud_m": "2,240",
+      "clima_julio": "17°C - 20°C",
+      "humedad_relativa": "~50% - 60%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Natural",
+      "impacto_tactico_y_mercados": "Riesgo hipóxico extremo. La falta de oxígeno precipita la fatiga muscular periférica a partir del minuto 60. La menor densidad del aire acelera el viaje del balón. Altísimo valor para el 'Over 1.5 goles' en la segunda mitad por descompresión defensiva. Las líneas deben ajustar agresivamente las expectativas de posesión para los equipos visitantes no aclimatados."
+    },
+    {
+      "estadio": "Estadio Akron",
+      "ciudad": "Zapopan, México / Guadalajara",
+      "altitud_m": "1,566",
+      "clima_julio": "24°C",
+      "humedad_relativa": "~60%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Natural",
+      "impacto_tactico_y_mercados": "El efecto hipóxico altera la homeostasis de selecciones acostumbradas al nivel del mar. Propicia la conservación táctica de energía en el primer tiempo (Ideal para 'Under' de tarjetas tempranas) seguido de volatilidad defensiva en el tramo final."
+    },
+    {
+      "estadio": "Estadio BBVA",
+      "ciudad": "Monterrey, México",
+      "altitud_m": "538",
+      "clima_julio": "29°C - 35°C",
+      "humedad_relativa": "~65%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Natural",
+      "impacto_tactico_y_mercados": "Estrés térmico crítico al aire libre. Obliga a tácticas de extrema conservación energética. Reduce drásticamente el ritmo de juego; ideal para mercados de 'Under' absolutos en la primera mitad y cuotas bajas de tiros a puerta combinados."
+    },
+    {
+      "estadio": "BC Place",
+      "ciudad": "Vancouver, Canadá",
+      "altitud_m": "5",
+      "clima_julio": "18°C - 20°C",
+      "humedad_relativa": "~55%",
+      "tipo_cubierta": "Retráctil",
+      "superficie_operativa": "Césped Temporal",
+      "impacto_tactico_y_mercados": "Entorno fisiológicamente equilibrado. Su techo retráctil maximiza la ventilación natural. Sin desgaste térmico ni hipóxico; ideal para aplicar líneas base de rendimiento estándar sin penalizaciones."
+    },
+    {
+      "estadio": "BMO Field",
+      "ciudad": "Toronto, Canadá",
+      "altitud_m": "76",
+      "clima_julio": "23°C",
+      "humedad_relativa": "62% - 74%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Híbrido",
+      "impacto_tactico_y_mercados": "Agente del caos climatológico. El viento errático proveniente del Lago Ontario crea corrientes térmicas y caídas repentinas de temperatura que alteran la balística de pases largos y córners. Se deben penalizar levemente las métricas ofensivas de juego aéreo."
+    },
+    {
+      "estadio": "Lumen Field",
+      "ciudad": "Seattle, EE.UU.",
+      "altitud_m": "3",
+      "clima_julio": "19°C - 22°C",
+      "humedad_relativa": "61% - 67%",
+      "tipo_cubierta": "Toldo en U (Parcial)",
+      "superficie_operativa": "Césped Temporal",
+      "impacto_tactico_y_mercados": "Su diseño arquitectónico captura y reverbera el sonido, creando la atmósfera más ruidosa de Norteamérica. Genera impacto psicológico y de comunicación, propiciando desincronizaciones defensivas, mayor número de tarjetas y errores no forzados visitantes."
+    },
+    {
+      "estadio": "Levi's Stadium",
+      "ciudad": "Santa Clara, EE.UU. / San Francisco Bay",
+      "altitud_m": "9",
+      "clima_julio": "21°C - 26°C",
+      "humedad_relativa": "59% - 69%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Natural",
+      "impacto_tactico_y_mercados": "Estadio al aire libre sin techo. En partidos vespertinos genera micro-islas de calor radiante en la grada este que fatiga a los laterales. Desgaste ligero/moderado en el 2T durante el día, pero condiciones neutrales óptimas en partidos nocturnos."
+    },
+    {
+      "estadio": "SoFi Stadium",
+      "ciudad": "Inglewood, EE.UU. / Los Ángeles",
+      "altitud_m": "40 (-30m)",
+      "clima_julio": "22°C - 24°C",
+      "humedad_relativa": "~60%",
+      "tipo_cubierta": "Híbrido Translúcido",
+      "superficie_operativa": "Césped Temporal",
+      "impacto_tactico_y_mercados": "Aislamiento total de variables hostiles bajo una cubierta translúcida que permite ventilación natural. Entorno que beneficia absolutamente el talento técnico puro. Selecciones superiores impondrán su ritmo táctico sin sufrir obstrucciones fisiológicas."
+    },
+    {
+      "estadio": "NRG Stadium",
+      "ciudad": "Houston, EE.UU.",
+      "altitud_m": "15",
+      "clima_julio": "22°C (Interior)",
+      "humedad_relativa": "Controlado",
+      "tipo_cubierta": "Retráctil con AC",
+      "superficie_operativa": "Césped Temporal",
+      "impacto_tactico_y_mercados": "Burbuja de laboratorio gracias al aire acondicionado y techo retráctil. Excluye por completo el sofocante verano tejano. Predicciones deben ignorar modificadores ambientales y basarse en métricas duras (xG), maximizando hándicaps asiáticos para los favoritos."
+    },
+    {
+      "estadio": "AT&T Stadium",
+      "ciudad": "Arlington, EE.UU. / Dallas",
+      "altitud_m": "184",
+      "clima_julio": "22°C (Interior)",
+      "humedad_relativa": "Controlado",
+      "tipo_cubierta": "Retráctil con AC",
+      "superficie_operativa": "Césped Temporal",
+      "impacto_tactico_y_mercados": "Domo estéril con control climático masivo. La fatiga térmica queda completamente neutralizada. Ideal para apostar al 'Over' general, ya que equipos con 'gegenpressing' pueden sostener la intensidad los 90 minutos sin asfixiarse."
+    },
+    {
+      "estadio": "Arrowhead Stadium",
+      "ciudad": "Kansas City, EE.UU.",
+      "altitud_m": "297",
+      "clima_julio": "27°C - 30°C",
+      "humedad_relativa": "~65% - 70%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Natural",
+      "impacto_tactico_y_mercados": "Olas de calor agudas estivales. Extremo calor al aire libre combinado con una acústica muy hostil (récord Guinness de ruido). Si el WBGT es alto el día del partido, los modelos deben activar penalizadores de resistencia drásticos para un fuerte colapso atlético en el segundo tiempo."
+    },
+    {
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta, EE.UU.",
+      "altitud_m": "317",
+      "clima_julio": "22°C (Interior)",
+      "humedad_relativa": "Controlado",
+      "tipo_cubierta": "Retráctil con AC",
+      "superficie_operativa": "Césped Temporal",
+      "impacto_tactico_y_mercados": "Entorno de confort óptimo con techo cerrado y AC. Garantiza rendimiento sostenido sin picos de fatiga térmica. El uso de césped natural temporal sobre placa artificial podría aumentar ligeramente la fricción, pero favorece líneas de apuestas predecibles."
+    },
+    {
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami Gardens, EE.UU. / Miami",
+      "altitud_m": "9",
+      "clima_julio": "29°C - 32°C",
+      "humedad_relativa": "~75%+",
+      "tipo_cubierta": "Toldo Parcial",
+      "superficie_operativa": "Césped Natural",
+      "impacto_tactico_y_mercados": "Riesgo letal termorregulador. Sin aire acondicionado. Penaliza agresivamente la capacidad de transiciones rápidas de selecciones frías (europeas) en la segunda mitad. Provocará pausas de hidratación obligatorias, alargando los descuentos (valor en goles tardíos)."
+    },
+    {
+      "estadio": "Gillette Stadium",
+      "ciudad": "Foxborough, EE.UU. / Boston",
+      "altitud_m": "94",
+      "clima_julio": "24°C - 28°C",
+      "humedad_relativa": "~75%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Temporal",
+      "impacto_tactico_y_mercados": "Mayoritariamente benévolo en verano con picos húmedos. Entorno abierto y neutral. Los modificadores climáticos son bajos, por lo que el análisis cuantitativo debe enfocarse en variables como el diferencial de fatiga por viaje acumulado y el talento puro de las escuadras."
+    },
+    {
+      "estadio": "Lincoln Financial Field",
+      "ciudad": "Filadelfia, EE.UU.",
+      "altitud_m": "23",
+      "clima_julio": "26°C - 29°C",
+      "humedad_relativa": "~60%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Híbrido",
+      "impacto_tactico_y_mercados": "Templado-cálido estable. Entorno fisiológicamente estable al aire libre. No requiere castigos algorítmicos severos; las predicciones deben guiarse estrictamente por los promedios de Goles Esperados (xG) estándar de cada selección."
+    },
+    {
+      "estadio": "MetLife Stadium",
+      "ciudad": "East Rutherford, EE.UU. / Nueva York / Nueva Jersey",
+      "altitud_m": "9",
+      "clima_julio": "26°C - 31°C",
+      "humedad_relativa": "63% - 69%",
+      "tipo_cubierta": "Abierto",
+      "superficie_operativa": "Césped Temporal",
+      "impacto_tactico_y_mercados": "Sede de la Final. El factor ambiental se suma a la inmensa presión conservadora ('risk-aversion') del encuentro decisivo. Esta combinación empuja agresivamente las líneas hacia el 'Under', haciendo atractivas las posiciones bajas en la primera mitad."
+    }
+  ]
+}

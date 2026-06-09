@@ -1,0 +1,674 @@
+﻿Dosier de Inteligencia Deportiva y 
+Análisis Táctico Definitivo: Selección 
+Nacional de Túnez (Mundial 2026) 
+El presente informe técnico proporciona una disección exhaustiva, estructural y algorítmica de 
+la Selección Nacional de Fútbol de Túnez de cara a la Copa Mundial de la FIFA 2026. 
+Encuadrada en el Grupo F junto a Países Bajos, Japón y Suecia, la selección norteafricana llega 
+a este certamen tras una fase de clasificación inmaculada en la que no encajó un solo gol.1 Sin 
+embargo, el ecosistema táctico y psicológico del equipo ha sufrido una metamorfosis radical 
+tras la debacle en la Copa Africana de Naciones (AFCON) 2025, lo que derivó en la destitución 
+de Sami Trabelsi y el nombramiento de Sabri Lamouchi en enero de 2026.1 Este documento 
+desgrana los patrones de comportamiento in-game, las vulnerabilidades estructurales y las 
+tendencias estadísticas de alto valor predictivo para los mercados financieros deportivos. 
+Perfil del DT y Psicología del Vestuario 
+La Filosofía Dogmática de Sabri Lamouchi 
+Sabri Lamouchi, estratega franco-tunecino con licencia UEFA Pro, asume el mando táctico con 
+un contrato proyectado hasta julio de 2028 y un promedio histórico de permanencia en el 
+cargo de 1.09 a 1.18 años por equipo.4 Su designación obedece a un mandato federativo claro: 
+replicar la resiliencia defensiva y el éxito emocional que Walid Regragui esculpió con Marruecos 
+en Qatar 2022.7 La filosofía de Lamouchi se cimenta en el pragmatismo extremo, la destrucción 
+del juego interior rival y una organización posicional meticulosa.8 
+
+A nivel histórico, los equipos de Lamouchi (como el Stade Rennais, Nottingham Forest y Cardiff 
+City) no buscan gobernar los encuentros a través de la tenencia del esférico. En el Stade 
+Rennais, su equipo promediaba apenas un 48% de posesión, priorizando la verticalidad tras 
+robo y la saturación del carril central.9 Su enfoque es metódico y obsesivo con los detalles; 
+analiza los patrones del oponente para diseñar planes de juego hiperespecíficos destinados a 
+explotar debilidades puntuales, convirtiendo los partidos en un ejercicio de desgaste y fricción 
+constante.8 
+
+Lectura In-Game y Gestión de la Presión 
+El comportamiento de Lamouchi durante el desarrollo del partido (lectura in-game) exhibe 
+patrones marcados y, en ocasiones, problemáticos. Su capacidad de reacción está 
+fuertemente condicionada por el "Game State" (estado del marcador). 
+Cuando sus equipos logran ponerse en ventaja, Lamouchi ejecuta ajustes defensivos casi 
+inmediatos. Su formación base teórica muta rápidamente para establecer bloques de 
+contención más profundos, transformando a los extremos en mediocampistas laterales para 
+forjar dos líneas de cuatro sumamente estrechas.10 Esta tendencia a proteger el resultado 
+
+
+
+garantiza solidez, pero a menudo hunde al equipo excesivamente cerca de su propia área, 
+invitando al asedio rival. 
+Por el contrario, el manejo de la presión en escenarios de desventaja o estrés máximo revela 
+una rigidez preocupante. El análisis de su etapa en el Nottingham Forest durante la temporada 
+2019-2020 es paradigmático: el equipo colapsó estrepitosamente en la recta final, perdiendo la 
+clasificación a los playoffs en la última jornada tras una serie de resultados adversos 
+(incluyendo una derrota 2-1 ante el Bristol City que propició su despido).11 Cuando el plan inicial 
+de contención falla, Lamouchi carece de un "Plan B" expansivo fluido. Sus sustituciones tienden 
+a ser nominales (cambios de hombre por hombre) en lugar de revoluciones tácticas que 
+alteren el ecosistema del encuentro. Si el equipo va perdiendo, la reacción suele ser tardía y 
+estructurada, careciendo de la anarquía ofensiva necesaria para asediar a rivales de élite. 
+Estado Anímico Real del Plantel y la "Revolución Generacional" 
+El vestuario de las "Águilas de Cartago" atraviesa una reestructuración psicológica severa. La 
+llegada de Lamouchi en 2026 vino acompañada de una purga sistemática de las "vacas 
+sagradas" del ciclo anterior. Jugadores históricos y líderes del vestuario como Ferjani Sassi, 
+Nabil Maaloul, Yassine Meriah y Naïm Sliti fueron erradicados de la convocatoria mundialista.12 
+Esta decisión, calificada por el propio técnico como "extremadamente difícil pero necesaria 
+para no complacer a nadie más que al pueblo tunecino" 12, ha transferido el peso del liderazgo a 
+una nueva generación. 
+Psicológicamente, el equipo opera bajo una identidad de reivindicación y rebeldía. Tras la 
+humillante eliminación en la AFCON 2025 ante una selección de Malí con diez hombres, el 
+mediocampista Hannibal Mejbri protagonizó una diatriba viral en la que criticó ferozmente los 
+estándares y las estructuras del fútbol tunecino.14 Lejos de ser castigado, este acto de 
+insurrección lo ha consolidado como el líder emocional indiscutido del plantel. Túnez se 
+alimenta de su papel de underdog; los jugadores se sienten inmensamente cómodos 
+practicando lo que la cultura futbolística moderna denomina "Haram Ball" (anti-fútbol): un estilo 
+áspero, rocoso y diseñado para convertir el partido en una tarea miserable y carente de alegría 
+para el rival.14 La cohesión interna es alta porque no hay presión de protagonismo; la presión 
+recae íntegramente en la capacidad del oponente para descifrar su cerrojo. 
+Táctica y Sistema: Estructura Estática y Dinámica 
+Formación Base Teórica 
+Desde el análisis de la pizarra, el sistema innegociable y preferido por Sabri Lamouchi es el 
+4-2-3-1.4 Esta estructura le proporciona el equilibrio exacto que demanda su filosofía: un doble 
+escudo en el centro del campo y un mediapunta con libertad condicional. No obstante, en la 
+fase preparatoria de 2026, Lamouchi demostró cierta adaptabilidad inicial. Frente a Haití, 
+desplegó un 4-3-3 para ganar volumen en la medular; días después, contra Canadá, regresó al 
+4-2-3-1; y en el reciente amistoso preparatorio frente a Austria (derrota 1-0), implementó un 
+4-4-2 plano y reactivo.13 
+
+A pesar de estas variaciones nominales, la arquitectura posicional subyacente se mantiene 
+
+
+
+intacta: protección absoluta del carril central, asimetría en los laterales y repliegue intensivo. 
+Fase del Juego Formación Estructural Función Principal del 
+
+Sistema 
+
+Inicio del Partido 4-2-3-1 / 4-4-2 Evaluación del rival, 
+contención central, 
+neutralización de pasillos 
+interiores. 
+
+Fase Ofensiva (Posesión) 3-2-4-1 (Asimétrico) Proyección profunda del 
+lateral izquierdo (Abdi); 
+fijación de la defensa con 
+tres centrales en base. 
+
+Fase Defensiva (Sin Balón) 4-4-1-1 / 4-1-4-1 Compactación extrema 
+(12-15 metros entre líneas); 
+forzar al oponente hacia 
+bandas exteriores. 
+
+Escenario en Ventaja 4-5-1 / Bloque Bajo Sacrificio del mediapunta; 
+creación de dos líneas 
+defensivas impenetrables; 
+renuncia a la posesión. 
+
+Esquema Real con Balón (Fase de Posesión) 
+Cuando Túnez logra recuperar el esférico y el rival le cede la iniciativa (un escenario que 
+buscarán evitar selecciones como Suecia o Países Bajos), el dibujo táctico se transforma en un 
+3-2-4-1 o 3-2-5 asimétrico.1 
+
+El lateral izquierdo, Ali Abdi, es el arma táctica más disruptiva del esquema. Funciona en la 
+práctica como un carrilero de extrema profundidad, subiendo constantemente para ofrecer 
+amplitud y ser la principal válvula de escape ofensiva.1 Para equilibrar esta agresividad, el lateral 
+derecho (usualmente Yan Valery o Moutaz Neffati) restringe sus proyecciones, cerrándose para 
+formar una línea de tres defensores junto a los centrales Montassar Talbi y Dylan Bronn.17 
+
+Por delante de esta línea de tres, el doble pivote compuesto por Ellyes Skhiri y la reciente 
+incorporación Rani Khedira permanece inamovible, actuando como un ancla posicional que 
+previene cualquier desajuste ante una posible pérdida.17 En el último tercio, Hannibal Mejbri 
+asume el control total de los ritmos de juego. Operando como el número 10, tiene licencia para 
+descender a la base, flotar hacia los half-spaces (pasillos interiores) o asociarse en corto con 
+los extremos.14 Sin embargo, la dependencia de esta ruta asimétrica izquierda es absoluta; si el 
+
+
+
+circuito Abdi-Mejbri es anulado, el equipo adolece de mecanismos de creación alternativos. 
+Esquema Real sin Balón (Fase Defensiva) 
+Sin la posesión, Túnez es una maquinaria clínica de destrucción de juego. El equipo muta 
+inmediatamente a un bloque medio-bajo estructurado en un 4-4-2 o 4-4-1-1.13 Hannibal 
+adelanta su posición para emparejarse con el delantero centro en la primera línea de presión.13 
+
+El objetivo de esta fase no es recuperar el balón de forma proactiva en el último tercio, sino 
+negar cualquier línea de pase vertical hacia los mediapuntas rivales. Los extremos (Elias 
+Achouri, Ismaël Gharbi o Elias Saad) retroceden con rigor marcial para alinearse con Skhiri y 
+Khedira.13 La compactación es extrema: la distancia entre la línea defensiva y la línea de 
+mediocampistas rara vez supera los 15 metros, creando un embudo que obliga al rival a circular 
+el balón periféricamente.10 Cualquier intento de filtrar un pase por el centro activa el gatillo de 
+presión de los pivotes, quienes aplican coberturas agresivas para forzar el error. 
+Flexibilidad vs. Terquedad Táctica 
+La flexibilidad de Lamouchi es eminentemente pre-partido. Es capaz de diseñar planes de 
+contención magistrales adaptados a las debilidades del oponente. No obstante, una vez que el 
+balón rueda, su terquedad táctica aflora. El equipo está programado para resistir; si el rival 
+logra romper el cerrojo temprano, Túnez entra en un estado de parálisis funcional.19 Lamouchi 
+es sumamente reacio a desarmar su doble pivote defensivo o a incorporar delanteros 
+adicionales antes del minuto 70, prefiriendo asumir una derrota por la mínima antes que 
+desestructurar el bloque en busca de un empate heroico. 
+Fase Ofensiva y Defensiva 
+Rutas de Salida de Balón 
+La construcción de juego desde el fondo (build-up) de Túnez es rudimentaria y 
+extremadamente cautelosa. Los centrales, Talbi y Bronn, carecen del refinamiento técnico 
+necesario para romper líneas mediante pases filtrados o conducciones progresivas que 
+atraigan presión. En consecuencia, la salida de balón depende casi exclusivamente de Ellyes 
+Skhiri, quien desciende constantemente entre los centrales para ofrecer un pase seguro.17 
+
+Si el equipo rival ejecuta una presión alta (high press) estructurada, Túnez no asume riesgos en 
+campo propio. La instrucción es clara: juego directo. El portero (Aymen Dahmen o 
+Abdelmouhib Chamakh) o los centrales buscarán envíos largos y frontales hacia la cabeza del 
+delantero centro de referencia (Hazem Mastouri o Firas Chaouat).21 El éxito de esta salida 
+rudimentaria radica en la capacidad de los mediocampistas (Khedira, Mejbri, Gharbi) para 
+ganar los duelos por las segundas jugadas (second balls) en la zona medular. 
+Zonas de Ataque y Generación de Peligro 
+El mapa de calor ofensivo de Túnez está severamente escorado hacia la banda izquierda. La 
+sinergia entre Ali Abdi y los volantes creativos representa más del 70% de la producción de 
+peligro en juego abierto.1 Abdi, con un asombroso registro de 5 goles y 4 asistencias en sus 
+
+
+
+últimos 15 a 18 partidos con la selección, es el atacante encubierto del equipo.1 Sus llegadas 
+desde segunda línea y sus centros tempranos al área son la firma ofensiva del ciclo actual. El 
+carril derecho, por el contrario, es utilizado de forma pasiva, sirviendo únicamente para fijar 
+marcas y ensanchar mínimamente el bloque rival sin intención real de penetración. 
+Altura del Bloque Defensivo e Intensidad de Presión (PPDA) 
+Túnez exhibe una métrica PPDA (Passes Allowed Per Defensive Action) notablemente alta, lo 
+que indica una intensidad de presión baja y pasiva en el tercio ofensivo. Lamouchi no instruye a 
+sus delanteros a asfixiar la salida de los centrales oponentes.10 En su lugar, el equipo establece 
+la altura de su bloque defensivo (la línea de iniciación de la presión) a unos 35-40 metros de su 
+propia portería.13 
+
+El equipo espera pacientemente en su bloque medio. El "pressing trap" (trampa de presión) se 
+activa de manera feroz únicamente cuando el balón ingresa al tercio central y es jugado hacia 
+un mediocampista rival que se encuentra de espaldas a la portería. En ese instante, la 
+estructura estática se rompe momentáneamente; Skhiri o Khedira saltan agresivamente al 
+poseedor para forzar una pérdida o ejecutar una falta táctica inmediata que interrumpa el flujo 
+del contraataque.10 
+
+Comportamiento de los Centrales 
+Montassar Talbi y Dylan Bronn ejecutan un comportamiento defensivo de naturaleza 
+estrictamente zonal.23 No realizan marcajes persecutorios prolongados; si un delantero centro 
+rival (falso nueve) desciende al mediocampo para recibir, los centrales tunecinos mantienen su 
+posición en la línea, transfiriendo la marca al doble pivote. Esta disciplina posicional evita que se 
+generen huecos a sus espaldas.10 Dentro del área de penalti, su contundencia es superlativa: 
+priorizan el despeje utilitario sobre el control del balón. Este comportamiento conservador, 
+blindado por el mediocampo, fue el artífice de la hazaña estadística de mantener la portería a 
+cero durante los 10 partidos consecutivos de la fase de clasificación al Mundial (22 goles a 
+favor, 0 en contra).1 
+
+Transiciones y Balón Parado 
+Fragilidad y Solidez en las Transiciones 
+La dicotomía táctica de Túnez se manifiesta vívidamente en las fases de transición. 
+Transición Defensa-Ataque (Contragolpe): El "veneno" al contragolpe de Túnez es, en su 
+mayoría, deficiente y predecible. Al defender en un bloque tan bajo, la distancia hacia la 
+portería rival tras recuperar el esférico es de 70 a 80 metros. Los delanteros de referencia, 
+Chaouat y Mastouri, carecen de la velocidad punta necesaria para explotar los espacios 
+abiertos.22 El peligro real en transición depende exclusivamente de que Hannibal Mejbri logre 
+girar rápidamente y lanzar balones al espacio para extremos veloces como Elias Achouri o 
+Ismaël Gharbi.13 Sin embargo, la lentitud general del equipo en el desdoble ofensivo suele 
+permitir que el rival se reorganice con facilidad.25 
+
+Transición Ataque-Defensa (Repliegue y Rest-Defense): Paradójicamente, esta es la mayor 
+
+
+
+fortaleza del conjunto tunecino. Al proyectar un número muy limitado de efectivos en la fase 
+ofensiva (manteniendo siempre a los dos centrales, al lateral derecho y al doble pivote por 
+detrás de la línea del balón), el equipo es prácticamente inmune a los contraataques 
+centrales.23 Skhiri y Khedira actúan como "parabrisas" defensivos, temporizando las acometidas 
+rivales y utilizando su posicionamiento corporal para obligar al oponente a ralentizar la jugada 
+hasta que los extremos tunecinos hayan completado su repliegue táctico. 
+Eficacia Absoluta en Balón Parado (Set Pieces) 
+Consciente de las profundas limitaciones de su equipo para generar ocasiones de alto valor 
+esperado (xG) en juego abierto, Lamouchi ha convertido las acciones a balón parado (ABP) en 
+el principal sustento ofensivo de Túnez.13 Las estadísticas revelan que el equipo promedia unos 
+sorprendentes 6.75 córners a favor por partido, una anomalía para un conjunto de corte 
+defensivo.1 Esta cifra se explica por su propensión a atacar por las bandas, forzando despejes 
+constantes de los laterales rivales hacia la línea de fondo.26 
+
+●​ Peligro a favor: Túnez es extremadamente dañino en la estrategia. Hannibal Mejbri es el 
+principal ejecutor de tiros libres indirectos y saques de esquina, compartiendo esta 
+responsabilidad con Ali Abdi.1 La precisión en el golpeo de ambos encuentra 
+destinatarios formidables en el área: Mastouri (1.91m de estatura) 21, Talbi y Bronn. 
+Además, especialistas como Anis Ben Slimane y el joven Khalil Ayari aportan variantes en 
+el golpeo directo. En el reciente choque frente a Austria, Túnez estrelló el balón en los 
+postes en dos ocasiones producto de tiros libres ejecutados a la perfección.13 Los 
+penaltis son responsabilidad primaria de Abdi o Gharbi.1 
+
+●​ Vulnerabilidad en contra: Defensivamente, el equipo es rocoso en el juego aéreo 
+frontal, pero ha mostrado desconcentraciones ante rutinas de laboratorio complejas 
+(bloqueos y pantallas) que aíslan a Talbi en el segundo palo. Los saques de esquina en 
+corto que obligan a la defensa a salir del área suelen desorganizar temporalmente su 
+férrea marca zonal. 
+
+Radiografía de los 26: Jerarquía y Perfiles 
+La lista de 26 convocados elaborada por Sabri Lamouchi refleja la mencionada transición 
+generacional y la priorización del rigor físico sobre la floritura técnica.12 
+
+El Motor del Equipo y los Líderes de Vestuario 
+El verdadero motor incombustible y epicentro táctico del equipo es Ellyes Skhiri (Eintracht 
+Frankfurt).28 Skhiri es el termómetro del conjunto; su inteligencia posicional, capacidad de 
+anticipación y precisión en el pase corto son el pegamento que sostiene la estructura 
+defensiva y facilita las transiciones.17 
+
+El líder espiritual y emocional es, sin lugar a dudas, Hannibal Mejbri (Burnley).14 A sus 23 
+años, y acercándose a las 50 internacionalidades, Mejbri ha heredado la camiseta #10 de 
+Wahbi Khazri y el peso creativo de la nación.1 Su perfil es el de un "mediapunta de trinchera": 
+combativo, agitador y técnicamente dotado. Su liderazgo se consolidó tras su enfrentamiento 
+público con las estructuras de la federación tunecina, adoptando el rol de voz insurrecta del 
+
+
+
+vestuario.14 
+
+La Revolución en el Doble Pivote: Rani Khedira 
+El mayor salto de calidad en la convocatoria es la inclusión de Rani Khedira (32 años, capitán 
+del Union Berlin).12 Tras años de negativas, la federación logró convencer al hermano del 
+campeón mundial alemán Sami Khedira de representar a Túnez en marzo de 2026.30 Su 
+impacto es sísmico: aporta liderazgo germánico, rigor en la marca y experiencia al más alto 
+nivel en la Bundesliga.29 La alianza Khedira-Skhiri conforma uno de los dobles pivotes más 
+intimidantes y destructivos de todo el campeonato mundial.14 
+
+Profundidad Real del Banquillo y Sobrevaloración 
+La profundidad real del plantel tunecino es un espejismo estadístico. Mientras que la línea 
+defensiva y la base del mediocampo cuentan con recambios de garantías (Hadj Mahmoud, Ben 
+Ouanes, Omar Rekik), el frente de ataque es crítico. 
+ 
+
+Línea / Posición Titulares Clave Recambios Evaluación de 
+Principales Profundidad 
+
+Portería Aymen Dahmen S. Ben Hessen, A. Adecuada. 
+Chamakh (1.92m) Lamouchi corrigió 
+
+el error de 2022 
+llevando solo 3 
+porteros. Chamakh 
+ofrece un perfil 
+dominante por 
+arriba.15 
+
+Defensa Central M. Talbi, D. Bronn O. Rekik, A. Arous, Sólida. Rekik y 
+R. Chikhaoui Arous tienen buen 
+
+nivel, aunque 
+carecen del ritmo 
+competitivo 
+continuo en la élite.2 
+
+Laterales A. Abdi (I), Y. Valery M. Ben Hmida, M. Descompensada. 
+(D) Neffati Si Abdi se lesiona, 
+
+Túnez pierde el 
+50% de su 
+capacidad ofensiva 
+real.1 Ben Hmida es 
+netamente 
+
+
+
+defensivo. 
+
+Mediocampo E. Skhiri, R. Khedira A. Ben Slimane, H. Excelente. Ben 
+Mahmoud Slimane ofrece 
+
+músculo y llegada; 
+Mahmoud es un 
+destructor fiable.2 
+
+Creación/Bandas H. Mejbri, E. Achouri I. Gharbi, E. Saad, S. Alta dependencia. 
+Tounekti Achouri 
+
+(Copenhague) y 
+Gharbi (Augsburgo) 
+son los únicos con 
+capacidad de 
+desborde 1v1 real.1 
+
+Delantera Centro H. Mastouri F. Chaouat, K. Ayari, Deficiente. 
+R. Elloumi Mastouri (4 goles 
+
+en 12 partidos) es 
+físico pero 
+limitado.1 El joven 
+Elloumi (18 años, 
+Vancouver) es una 
+apuesta a futuro.24 
+
+Jugadores Sobrevalorados: Firas Chaouat (Club Africain) es el elemento más sobrestimado 
+por la prensa local. Aunque acumula estadísticas aceptables en la liga doméstica (15 goles 
+recientes) 34, a nivel internacional (6 goles en 26 partidos) 22 su lentitud, falta de giro y escasa 
+contribución en la asociación lo convierten en una presa fácil para centrales de élite como Virgil 
+van Dijk o los zagueros suecos. Su inclusión responde a una carencia estructural de delanteros 
+en el país, no a un talento de nivel Copa del Mundo.24 
+
+Por el contrario, el "As bajo la manga" es Ismaël Gharbi (22 años, ex-PSG).13 Nacido en París y 
+de madre madrileña, Gharbi posee una técnica exquisita, descaro individual y la versatilidad 
+para jugar en cualquiera de las posiciones de tres cuartos de campo. Es el único jugador del 
+plantel capaz de romper un bloque defensivo mediante gambeta en espacios reducidos.1 
+
+Vulnerabilidades Críticas (La Sangre): El "Talón de 
+Aquiles" 
+A pesar de su imponente récord de 10 porterías a cero en la clasificación 1, el muro tunecino no 
+es indestructible. Desde una perspectiva analítica cruda, la selección se rompe bajo los 
+siguientes cuatro escenarios tácticos y psicológicos: 
+
+1.​ La Parálisis Creativa ante Bloques Profundos: El "Haram Ball" de Túnez está 
+
+
+
+genéticamente diseñado para frustrar a equipos proactivos que buscan gobernar el 
+partido.14 Sin embargo, cuando se enfrentan a un rival de nivel similar o a un equipo que 
+deliberadamente les cede la iniciativa y se hunde en un bloque bajo, Túnez sufre de 
+impotencia clínica. Carecen de los filtradores de pases necesarios en la medular y de 
+delanteros con movilidad para desordenar defensas cerradas. Ante escenarios donde la 
+obligación de proponer recae sobre ellos, el equipo colapsa en un mar de pases laterales 
+estériles.25 
+
+2.​ El "Efecto Gol Temprano" (Colapso del Game State): Esta es la herida letal. Túnez no 
+está estructurado para remontar marcadores. Si el rival logra anotar un gol en los 
+primeros 25 minutos del encuentro, el plan de Lamouchi se desmorona.19 La necesidad 
+de adelantar líneas y abandonar el bloque bajo desnaturaliza a Skhiri y Khedira. Los 
+espacios que se generan a espaldas del mediocampo son vastos, y los centrales Talbi y 
+Bronn, expuestos a campo abierto, sufren inmensamente por su falta de velocidad en 
+recuperación. 
+
+3.​ La Explotación de la Espalda de Ali Abdi: Dado que Abdi es la principal vía de escape 
+ofensivo por la izquierda 1, la zona a sus espaldas es el sector más desprotegido del 
+campo en las transiciones.15 Equipos con extremos veloces e inteligencia espacial (como 
+Ritsu Doan o Takumi Minamino de Japón, o el arsenal neerlandés) 3 que logren atraer la 
+atención hacia la derecha para cambiar la orientación súbitamente hacia el flanco vacío 
+de Abdi, forzarán a Talbi a salir de su zona de confort, desarticulando toda la cadena de 
+marcas zonales en el área. 
+
+4.​ Aislamiento Endémico del Delantero Centro: El error estructural más común en la fase 
+ofensiva es la fractura del equipo en dos bloques inconexos. La distancia entre los ocho 
+jugadores que defienden y el delantero centro (Mastouri o Chaouat) suele superar los 40 
+metros.10 Esto obliga al nueve a combatir en constante inferioridad numérica (1 contra 3) 
+ante los zagueros rivales. Hannibal, en su afán de participar, suele descender demasiado, 
+dejando al atacante completamente asilado y neutralizado.14 
+
+Contexto Betting (Apuestas): Patrones Algorítmicos y 
+Tendencias 
+Para los sindicatos de apuestas y analistas financieros, la selección de Túnez representa uno de 
+los activos más rentables y previsibles del torneo si se atacan los mercados adecuados. La 
+rigidez del sistema de Lamouchi y las deficiencias ofensivas históricas arrojan tendencias de 
+altísima fiabilidad. 
+Tendencias de Goles (Over/Under) y Ambos Anotan (BTTS) 
+
+●​ El Imperio del Under 2.5: Apostar al Under 2.5 Goles en los partidos de Túnez es una de 
+las estrategias de mayor valor esperado (EV+). Su récord de 10 porterías imbatidas en 10 
+partidos de clasificación lo atestigua.1 En los mercados anticipados para el partido 
+inaugural frente a Suecia, el Under 2.5 se cotiza a -163 (implicando una probabilidad del 
+61%).36 La arquitectura de bloque bajo y la inoperancia de sus delanteros garantizan 
+
+
+
+marcadores cerrados. 
+●​ Ambos Equipos Anotan (BTTS - NO): La premisa de los encuentros de Túnez es "ganar 
+
+1-0 o perder 1-0". La probabilidad de un intercambio de golpes que culmine con goles en 
+ambas porterías es históricamente baja. El mercado de BTTS: No para su debut cotiza a 
+-134 (57% de probabilidad implícita) 36, reflejando la alta confianza de los algoritmos en 
+que al menos uno de los dos equipos no marcará. 
+
+●​ Patrones por Mitades (HT/FT): Existe una tendencia estadística abrumadora hacia los 
+empates a cero en la primera mitad (0-0 al HT).37 Lamouchi estructura los primeros 45 
+minutos puramente para sobrevivir y frustrar. El mayor porcentaje de goles (a favor o en 
+contra) se registra en los últimos 30 minutos del partido, cuando el desgaste físico abre 
+grietas en el bloque o cuando Túnez se ve obligado a desprotegerse por urgencias del 
+marcador. 
+
+Líneas de Córners y Disciplina (Tarjetas) 
+●​ Mercado de Córners (Over): Contra toda intuición para un equipo de bloque bajo, 
+
+Túnez es una máquina de generar saques de esquina, promediando 6.75 córners a favor 
+por partido.1 Al carecer de filtradores centrales, la ofensiva se canaliza tozudamente por 
+las bandas (especialmente con Abdi), forzando despejes continuos de las defensas 
+rivales hacia la línea de fondo.26 Explorar líneas de Over de córners para Túnez es una 
+métrica explotable. 
+
+●​ Promedio de Tarjetas (Equipo vs. Jugador): Colectivamente, Túnez promedia un bajo 
+número de tarjetas amarillas (1.65 por partido) debido a que su intensidad de presión 
+(PPDA) es baja; prefieren defender posicionalmente en lugar de realizar entradas 
+temerarias.39 Sin embargo, en el mercado de Prop Bets (Apuestas a Jugador), Hannibal 
+Mejbri es calificado unánimemente como un "imán de tarjetas" (Card Magnet).1 Su 
+temperamento volátil y su rol como iniciador de la presión agresiva en zonas medias lo 
+convierten en un objetivo prioritario para las apuestas de amonestaciones. 
+
+Matchups y Escenarios Predictivos del Grupo F 
+Los mercados de largo plazo ofrecen a Túnez a 500/1 para ganar el Mundial, y sitúan sus 
+probabilidades de ganar el Grupo F en 7/1 (Bet365) o 17/2 (Sky Bet).1 Las cuotas para que 
+queden eliminados en fase de grupos son las favoritas (4/6 vía SpreadEX).1 
+
+ 
+
+Rival / Partido Contexto Táctico / Cuotas Mercado de Alto 
+Matchup Referenciales Valor (EV+) 
+
+vs. Suecia (Partido Duelo cerrado. Suecia: -106 Under 2.5 Goles 
+1) Suecia depende del  (-163).36 
+
+físico de Viktor Túnez: +320  
+
+Gyökeres frente al  Empate al HT. 
+
+
+
+bloque bajo de Talbi Empate: +240 40 
+
+y Bronn. Túnez 
+buscará congelar el 
+ritmo. 
+
+vs. Japón (Partido El peor Pendientes Victoria Japón. 
+2) emparejamiento  
+
+posible para Túnez. Over 1.5 Goles 
+La velocidad, Japón. 
+movilidad y 
+combinaciones en 
+espacios reducidos 
+de los nipones 
+destruirán la rigidez 
+tunecina.3 
+
+vs. Países Bajos Países Bajos es Pendientes BTTS: No. 
+(Partido 3) favorito (-117 para  
+
+ganar el grupo).3 Holanda a ganar a 
+Túnez planteará un cero. 
+4-5-1 inamovible. Si 
+Túnez necesita 
+ganar para 
+clasificar y se abre, 
+será goleado. 
+
+En síntesis, la selección de Túnez comandada por Sabri Lamouchi es el exponente definitivo del 
+fútbol de resistencia. Apoyados en un sistema defensivo hermético liderado por la dupla 
+Skhiri-Khedira y las proyecciones punzantes de Ali Abdi, poseen la capacidad de secar a 
+equipos técnicamente superiores. Sin embargo, su alergia crónica al riesgo ofensivo, la 
+esterilidad estructural de sus delanteros centro y la incapacidad de su entrenador para 
+orquestar remontadas establecen un techo de cristal evidente. Para el analista de mercado, 
+Túnez no es un equipo para apostar a favor de gestas heroicas, sino un instrumento 
+matemático altamente predecible para maximizar retornos en los mercados de baja anotación 
+y disciplina férrea. 
+
+Obras citadas 
+
+1.​ Tunisia World Cup 2026: Fixtures, key players and tactical analysis ..., fecha de 
+acceso: junio 5, 2026, 
+https://www.squawka.com/en/news/world-cup/tunisia-world-cup-2026-fixtures-
+players-analysis/ 
+
+2.​ Tunisia coach Lamouchi targets history at FIFA World Cup 2026, fecha de acceso: 
+
+
+
+junio 5, 2026, 
+https://kawowo.com/2026/06/02/tunisia-coach-lamouchi-targets-history-at-fifa-
+world-cup-2026/ 
+
+3.​ World Cup Group F Expert Picks & Best Odds: Can Anyone Challenge 
+Netherlands?, fecha de acceso: junio 5, 2026, 
+https://www.sportsbettingdime.com/news/soccer/2026-fifa-world-cup-group-f-
+expert-picks-best-odds/ 
+
+4.​ Sabri Lamouchi - Manager profile | Transfermarkt - Transfer Market, fecha de 
+acceso: junio 5, 2026, 
+https://www.transfermarkt.us/sabri-lamouchi/profil/trainer/24207 
+
+5.​ Tunisia name Sabri Lamouchi as coach | FIFA World Cup 2026, fecha de acceso: 
+junio 5, 2026, https://www.fifa.com/en/articles/tunisia-sabri-lamouchi-coach 
+
+6.​ Lamouchi - Grokipedia, fecha de acceso: junio 5, 2026, 
+https://grokipedia.com/page/lamouchi 
+
+7.​ Can Tunisia's Lamouchi replicate Regragui's World Cup magic? - FIFA, fecha de 
+acceso: junio 5, 2026, 
+https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/arti
+cles/sabri-lamouchi-tunisia-analysis 
+
+8.​ Unveiling Sabri Lamouchi's Dynamic and Visionary Managerial Style - Matt Skinner, 
+fecha de acceso: junio 5, 2026, 
+https://www.mattskinner.cymru/post/unveiling-sabri-lamouchi-s-dynamic-and-vis
+ionary-managerial-style 
+
+9.​ Tactical analysis of Sabri Lamouchi's Rennes indicates what Nottingham Forest 
+fans can expect - Nottinghamshire Live, fecha de acceso: junio 5, 2026, 
+https://www.nottinghampost.com/sport/football/tactical-analysis-sabri-lamouchis
+-rennes-3033067 
+
+10.​Sabri Lamouchi at Nottingham Forest 2019/20 – tactical analysis - OneFootball, 
+fecha de acceso: junio 5, 2026, 
+https://onefootball.com/en/news/sabri-lamouchi-at-nottingham-forest-201920-ta
+ctical-analysis-29987785 
+
+11.​Sabri Lamouchi - Grokipedia, fecha de acceso: junio 5, 2026, 
+https://grokipedia.com/page/Sabri_Lamouchi 
+
+12.​Lamouchi names much-changed Tunisia FIFA World Cup squad, fecha de acceso: 
+junio 5, 2026, 
+https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/arti
+cles/tunisia-squad-named-sabri-lamouchi 
+
+13.​Sabri Lamouchi Tactics At Tunisia 2026 - Tactical Football Analysis, fecha de 
+acceso: junio 5, 2026, 
+https://tacticalfootballanalysis.com/tunisia-tactics-fifa-world-cup-2026-tactical-
+analysis/ 
+
+14.​World Cup 2026: Tunisia – the masters of 'Haram Ball' fuelled by a ..., fecha de 
+acceso: junio 5, 2026, 
+https://www.mirror.co.uk/sport/football/news/world-cup-2026-tunisia-hannibal-3
+7246243 
+
+15.​Tunisia World Cup 2026 team guide - The Guardian, fecha de acceso: junio 5, 
+
+
+
+2026, 
+https://www.theguardian.com/football/2026/jun/03/tunisia-world-cup-2026-team
+-guide 
+
+16.​Austria vs Tunisia Lineups - Friendly International 2026/27 - BeSoccer EN, fecha de 
+acceso: junio 5, 2026, 
+https://www.besoccer.com/match/seleccion-austria/seleccion-tunez/2027308/lin
+eups 
+
+17.​Tunisia Fans' Travel Guide - World Cup 2026, fecha de acceso: junio 5, 2026, 
+https://www.motel6.com/travel-guides/world-cup/tunisia-fan-travel-guide 
+
+18.​Bundesliga Tactics Talk: Round 34 - Bulinews, fecha de acceso: junio 5, 2026, 
+https://bulinews.com/bundesliga-tactics-talk-round-34 
+
+19.​Austria vs Tunisia: Friendlies stats & head-to-head, fecha de acceso: junio 5, 2026, 
+https://www.bbc.com/sport/football/live/cn0p7e872dpt 
+
+20.​Cardiff City's mindset has been transformed by Sabri Lamouchi, giving Bluebirds 
+fans hope and belief again | Wales Online, fecha de acceso: junio 5, 2026, 
+https://www.walesonline.co.uk/sport/football/football-news/cardiff-citys-mindset-
+been-transformed-26392488 
+
+21.​Hazem Mastouri - Wikipedia, fecha de acceso: junio 5, 2026, 
+https://en.wikipedia.org/wiki/Hazem_Mastouri 
+
+22.​Firas Chaouat - Wikipedia, fecha de acceso: junio 5, 2026, 
+https://en.wikipedia.org/wiki/Firas_Chaouat 
+
+23.​Fifa World Cup 2026: What you need to know about Tunisia, fecha de acceso: 
+junio 5, 2026, https://www.bbc.co.uk/sport/football/articles/cy425d2gj4do 
+
+24.​World Cup 2026 Group F Betting Preview: Predictions, Odds & Best Bets - 
+Flashscore, fecha de acceso: junio 5, 2026, 
+https://www.flashscore.co.uk/news/football-world-championship-world-cup-202
+6-group-f-betting-preview-predictions-odds-best-bets/d2EUY3BL/ 
+
+25.​2022 World Cup Tactical Preview: Tunisia - Total Football Analysis, fecha de 
+acceso: junio 5, 2026, 
+https://totalfootballanalysis.com/article/2022-world-cup-tactical-preview-tunisia-
+tactical-analysis-tactics 
+
+26.​corner stats - Tunisia Ligue Professionnelle 1 - TheStatsDontLie, fecha de acceso: 
+junio 5, 2026, 
+https://www.thestatsdontlie.com/football/rest-of-the-world/tunisia/ligue-professi
+onnelle-1/corners/ 
+
+27.​PSG's Ayari and Burnley's Mejbri headline Tunisia's squad for World Cup | 
+Flashscore.com, fecha de acceso: junio 5, 2026, 
+https://www.flashscore.com/news/soccer-world-cup-psg-s-ayari-and-burnley-s-
+mejbri-headline-tunisia-s-squad-for-world-cup/nXbrAZeB/ 
+
+28.​BEN'S BLOG: 'Yes. We still do things properly here.' – Football & Racing News - 
+Star Sports, fecha de acceso: junio 5, 2026, 
+https://www.starsportsbet.co.uk/bens-blog-yes-we-still-do-things-properly-here
+/ 
+
+29.​Khedira wants to play for Tunisia - OneFootball, fecha de acceso: junio 5, 2026, 
+https://onefootball.com/en/news/khedira-wants-to-play-for-tunisia-42506112 
+
+
+
+30.​Rani Khedira - Wikipedia, fecha de acceso: junio 5, 2026, 
+https://en.wikipedia.org/wiki/Rani_Khedira 
+
+31.​Tunisia cleared by FIFA to pick Rani Khedira, brother of former Germany star 
+Sami, for World Cup - AP News, fecha de acceso: junio 5, 2026, 
+https://apnews.com/article/khedira-tunisia-world-cup-fifa-0166c2073f07ceae837
+a2848684d34a7 
+
+32.​Mouhib Chamakh - Wikipedia, fecha de acceso: junio 5, 2026, 
+https://en.wikipedia.org/wiki/Mouhib_Chamakh 
+
+33.​Elias Achouri - Wikipedia, fecha de acceso: junio 5, 2026, 
+https://en.wikipedia.org/wiki/Elias_Achouri 
+
+34.​Firas Chaouat (Club Africain Tunis) - Bio, stats and news - 365Scores, fecha de 
+acceso: junio 5, 2026, 
+https://www.365scores.com/en-us/football/player/firas-chaouat-61991 
+
+35.​Firas Chaouat - stats, career and market value - FotMob, fecha de acceso: junio 5, 
+2026, https://www.fotmob.com/players/845336/firas-chaouat 
+
+36.​Sweden vs Tunisia: Predictions, Picks, Odds & Stats - Squawka, fecha de acceso: 
+junio 5, 2026, 
+https://www.squawka.com/us/news/world-cup/match-preview-sweden-vs-tunisia
+-06-14-26-world-cup-2026/ 
+
+37.​Tunisia Ligue Professionnelle 1 Stats 22/23 | The Stats Don't Lie - TheStatsDontLie, 
+fecha de acceso: junio 5, 2026, 
+https://www.thestatsdontlie.com/football/rest-of-the-world/tunisia/ligue-professi
+onnelle-1-2223/ 
+
+38.​RE-LIVE: AFCON 2025 - Rolling updates of today's action and key moments (3 
+January), fecha de acceso: junio 5, 2026, 
+https://www.cafonline.com/afcon2025/news/re-live-afcon-2025-rolling-updates-
+of-today-s-action-and-key-moments-3-january/ 
+
+39.​Tunisia statistics of football matches. All results of Tunisia team: goals stats, 
+corners stats, red and yellow cards, fecha de acceso: junio 5, 2026, 
+https://corner-stats.com/tunisia/national/team/1776 
+
+40.​Sweden vs Tunisia Odds - RotoWire, fecha de acceso: junio 5, 2026, 
+https://www.rotowire.com/betting/soccer/game/sweden-vs-tunisia-odds-2026-0
+6-14-2608252

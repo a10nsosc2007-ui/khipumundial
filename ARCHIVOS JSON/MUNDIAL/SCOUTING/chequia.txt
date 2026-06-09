@@ -1,0 +1,973 @@
+Dossier de Inteligencia Deportiva y
+Análisis Táctico-Predictivo Definitivo:
+Selección Nacional de Chequia (Mundial
+2026)
+PERFIL DEL DT Y PSICOLOGÍA
+El análisis estructural de la Selección Nacional de Chequia para la Copa del Mundo 2026 debe
+comenzar obligatoriamente por la disección clínica de su ecosistema psicológico y la figura
+omnipotente de su director técnico, Miroslav Koubek. Tras una ausencia de veinte años en la
+máxima cita global del fútbol (su última participación data de Alemania 2006 con la generación
+dorada de Pavel Nedvěd y Tomáš Rosický), el retorno del combinado checo no es producto de
+una evolución técnica sostenida, sino de un ejercicio brutal de supervivencia, pragmatismo y
+gestión de crisis.1 El camino hacia el Mundial estuvo marcado por un trauma institucional: una
+derrota humillante ante las Islas Feroe y una caída por 5-1 ante Croacia que detonaron la
+destitución fulminante del anterior seleccionador, Ivan Hašek.1 En este contexto de tierra
+quemada, la federación recurrió a Koubek, un veterano de 74 años que en su juventud trabajó
+como corredor de seguros antes de escalar desde las divisiones inferiores hasta coronarse
+campeón con el Viktoria Plzeň y el Slavia Praga.4
+La filosofía de Miroslav Koubek se cimenta en un pragmatismo extremo, desprovisto de
+cualquier romanticismo estético. Su enfoque es la antítesis del fútbol de posesión
+contemporáneo; es un fundamentalista del orden, la disciplina táctica y la optimización de
+recursos limitados.2 A pesar de su avanzada edad, lo que lo convierte en el técnico más
+longevo del torneo tras el intento de Dick Advocaat con Curazao, Koubek no es un dinosaurio
+táctico. Analistas y jugadores de su entorno confirman que es un obsesivo de las tendencias
+modernas, integrando tecnología avanzada, análisis de macrodatos (Big Data) y métricas
+avanzadas para la preparación de partidos.4 Su modelo busca deliberadamente imponer un
+estilo rocoso, diseñado para incomodar al rival, minimizar los errores propios en zonas de
+construcción y trasladar la presión psicológica al oponente mediante un repliegue compacto y
+transiciones verticales.2 Como define su entorno, Koubek tiene la capacidad inusual de extraer
+el rendimiento máximo absoluto de una plantilla que carece de brillantez técnica, asumiendo sin
+complejos el papel de "ganar feo" (win ugly).2
+La lectura in-game de Koubek y su reacción ante la adversidad constituyen uno de los activos
+más valiosos para el análisis de apuestas en vivo. A diferencia de entrenadores reactivos que
+desmantelan su estructura defensiva al verse en desventaja, el técnico checo opera con una
+frialdad clínica, rechazando el pánico sistémico. La mayor evidencia empírica de esta resiliencia
+se manifestó durante la agónica repesca europea hacia este Mundial. En la semifinal frente a la
+República de Irlanda en Praga, Chequia se encontró perdiendo 2-0 apenas a los 23 minutos de
+juego (tras un penal de Troy Parrott y un autogol del portero Matěj Kovář propiciado por un
+
+desajuste defensivo).11 Lejos de precipitar sustituciones suicidas o alterar su línea de tres
+centrales, Koubek mantuvo la cohesión del bloque, ajustó sutilmente las marcas preventivas en
+el mediocampo para frenar las transiciones irlandesas, y su equipo logró empatar el encuentro
+2-2 en el tiempo regular gracias a un gol de Patrik Schick y un tanto salvador del central
+Ladislav Krejčí, forzando finalmente los penales donde salieron victoriosos.12 Cinco días
+después, en la final del playoff contra Dinamarca, el escenario fue similar: un partido de altísima
+tensión que terminó 2-2 en la prórroga (nuevamente con Krejčí anotando en tiempo extra) y que
+Chequia volvió a ganar en la tanda de penaltis, demostrando una inquebrantable fortaleza
+mental en escenarios de eliminación directa.13
+No obstante, el estado anímico real del plantel y la gestión del vestuario esconden fracturas
+subterráneas críticas que amenazan con desestabilizar la concentración del equipo. El
+ecosistema interno de la selección checa ha sido sacudido por dos eventos disciplinarios de
+magnitud sísmica en el ciclo reciente. El primero es el infame "Incidente de Gibraltar". Tras una
+victoria aplastante por 6-0 en la fase de clasificación, el equipo, liderado por su entonces
+capitán Tomáš Souček, tomó la decisión consciente de no agradecer ni saludar a los
+aficionados presentes en el estadio, en represalia por las protestas y críticas de la grada
+derivadas de rendimientos mediocres anteriores.16 La federación intervino con mano de hierro:
+los jugadores fueron despojados de sus bonos económicos (los cuales fueron donados a la
+caridad) y, en una decisión táctico-política sin precedentes, Souček fue destituido de la
+capitanía del equipo nacional.5 El brazalete fue entregado a Ladislav Krejčí (25 años, actual
+jugador del Wolverhampton), alterando irreversiblemente las jerarquías de poder dentro del
+vestuario.14 Aunque Koubek ha declarado públicamente que Souček sigue siendo un jugador
+"vital" y no pierde su valor táctico, la cicatriz de este enfrentamiento con la afición y la directiva
+sigue latente.2
+El segundo evento que introduce una toxicidad latente en el grupo es el escándalo de violencia
+del derbi de Praga entre el Slavia y el Sparta. Durante los minutos finales de un partido decisivo
+por el título de liga, con el Slavia ganando 3-2, cientos de aficionados invadieron el campo
+atacando a los jugadores rivales, lo que provocó la suspensión del encuentro.22 En medio del
+caos, dos pilares de la selección nacional y del Slavia Praga, el máximo goleador de la liga
+Tomáš Chorý y el carrilero David Douděra, protagonizaron actos de indisciplina y violencia que
+resultaron en tarjetas rojas directas.22 La federación checa castigó al Slavia con fuertes multas,
+el cierre de su estadio y la pérdida del partido sobre la mesa, mientras que el propio club
+suspendió a Chorý y Douděra por el resto de la temporada e incluso los incluyó en la lista de
+transferibles, afirmando que "nunca más jugarían para el club".23 Sin embargo, haciendo gala
+de una terquedad táctica y priorizando la lealtad de su núcleo duro, Koubek decidió convocar a
+ambos jugadores a la lista definitiva de 26 para el Mundial.26 Esta decisión es un arma de doble
+filo: por un lado, Koubek se asegura soldados leales a su sistema, pero por otro, inyecta al
+vestuario jugadores con una severa falta de ritmo competitivo (match fitness) tras largas
+suspensiones (Chorý seis partidos, Douděra tres) y que se encuentran en el epicentro del
+repudio público.29
+Finalmente, el factor psicológico y fisiológico de mayor riesgo para el plantel es la amenaza de
+la hipoxia y el estrés ambiental. La planificación logística de la federación ha establecido el
+
+campamento base del equipo en Mansfield, cerca de Dallas, Texas, a una elevación de apenas
+300 metros sobre el nivel del mar.31 Sin embargo, la realidad competitiva del Grupo A los obliga
+a jugar sus partidos en Guadalajara (1,500 metros de altitud contra Corea del Sur), Atlanta (300
+metros contra Sudáfrica) y Ciudad de México (la monstruosa altitud de 2,200 metros en el
+Estadio Azteca contra México).31 El presidente de la Federación, David Trunda, ha catalogado
+este calendario de altitudes como una "emergencia", reconociendo que las brutales variaciones
+geográficas tendrán un impacto fatal en la fisiología de un equipo que depende casi
+exclusivamente del despliegue físico aeróbico masivo para sostener su sistema.6 La
+imposibilidad de aclimatación sostenida (por las reglas de la FIFA de viajar solo días antes del
+partido) es una vulnerabilidad silenciosa que carcome la confianza del cuerpo técnico, sabiendo
+que el colapso pulmonar y muscular de sus jugadores corpulentos es una certeza biológica en
+las segundas mitades de estos encuentros.32
+
+TÁCTICA Y SISTEMA
+La disposición espacial de la Selección de Chequia es una oda a la robustez, el orden
+milimétrico y la acumulación de densidad en carriles interiores. Alejados de cualquier
+pretensión de dominar el juego a través de la posesión asociativa, el cuerpo técnico ha
+diseñado un sistema que busca maximizar el impacto físico de sus hombres más dominantes,
+creando una estructura que es difícil de penetrar y dolorosa de enfrentar.
+
+Formación Base Teórica
+El esquema nominal sobre el que se fundamenta toda la pizarra de Miroslav Koubek es el
+3-4-2-1.13 Esta ha sido la alineación recurrente a lo largo de las clasificatorias y los agónicos
+playoffs, consolidándose como la configuración que mejor exprime las características de un
+plantel carente de mediocentros organizadores creativos y extremos regateadores puros.13 La
+elección de los tres centrales no es casual; responde a la necesidad de blindar el área propia
+con presencia física y de liberar a los carrileros para que asuman todo el peso de la amplitud
+ofensiva, mientras que el doble pivote se encarga exclusivamente de tareas de contención,
+barrido y captura de segundos balones.10
+
+Esquema Real con Balón (Fase de Posesión)
+Cuando Chequia logra recuperar el esférico y entra en su limitada fase de posesión
+(recordemos que en su exitosa etapa europea con el Viktoria Plzeň, Koubek promediaba
+apenas un 46% de posesión 10), el sistema muta hacia un 3-2-5 asimétrico o un 3-4-3 profundo.
+La "salida lavolpiana" (construcción desde atrás con pases rasos) es prácticamente inexistente
+en el manual checo. Ante cualquier indicio de presión alta por parte del rival, la instrucción
+categórica es evitar riesgos en el primer tercio del campo. El portero Matěj Kovář o los centrales
+buscan inmediatamente el trazo largo directo hacia la cabeza del delantero centro (Patrik
+Schick o Tomáš Chorý).13
+Una vez que el balón supera la línea divisoria, el equipo adopta una estructura en forma de "U".
+Los carrileros (típicamente Vladimír Coufal por la derecha y David Jurásek o Jaroslav Zelený
+por la izquierda) se elevan hasta la altura de verdaderos extremos, pisando la línea de cal para
+
+ensanchar al máximo la defensa rival.37 Simultáneamente, los dos mediapuntas nominales
+(perfiles como Pavel Šulc, Lukáš Provod o Adam Hložek) se invaginan en los half-spaces
+(espacios intermedios), arrastrando consigo a los laterales adversarios hacia el centro.4 Esta
+mecánica tiene un único propósito final: liberar los carriles exteriores para ejecutar centros
+laterales constantes. La estadística es reveladora; durante la fase de clasificación europea,
+Chequia fue el equipo que más centros al área intentó, acumulando la colosal cifra de 284
+envíos.13 No buscan filtrar pases entre líneas ni asociarse por el centro; su ataque posicional
+consiste en circular el balón periféricamente hasta encontrar el ángulo adecuado para colgar el
+esférico al área, confiando en su aplastante superioridad en los duelos aéreos.
+
+Esquema Real sin Balón (Fase Defensiva)
+Sin la posesión, el instinto de supervivencia del equipo se activa y la estructura se contrae
+rápidamente hacia un bloque defensivo de 5-2-3, que ante asedios prolongados involuciona
+inevitablemente hacia un 5-4-1 en bloque bajo.10 Los carrileros retroceden para incrustarse en
+la línea de los centrales, formando una línea de cinco hombres impenetrable por el centro.
+La primera línea de presión, conformada por el delantero centro y los dos mediapuntas, rara
+vez ejerce un gegenpressing asfixiante tras la pérdida. Su función es posicional: basculan de
+lado a lado para bloquear las líneas de pase verticales hacia los pivotes del equipo rival,
+obligando al oponente a dirigir la circulación de la pelota hacia las bandas. En el centro del
+campo, el doble pivote checo (liderado por el infatigable Tomáš Souček junto a un perfil de
+desgaste como Michal Sadílek o Lukáš Červ) opera como una pantalla barredora.38 Su tarea no
+es perseguir el balón, sino negar el espacio entre la línea de mediocampistas y la línea
+defensiva, protegiendo la codiciada "zona 14" (la frontal del área). Si el rival logra penetrar por
+las bandas e intenta centrar, se encuentra con una muralla física en el área penal, donde los
+centrales checos, liderados por el capitán Ladislav Krejčí y Robin Hranáč, imponen su ley a
+través de la envergadura y el choque físico, despejando cualquier amenaza aérea.13
+
+Flexibilidad o Terquedad Táctica
+Miroslav Koubek demuestra un grado de flexibilidad táctica, pero esta se encuentra
+estrictamente subordinada a su filosofía conservadora. No es un entrenador que muera con un
+solo dibujo si el contexto exige modificaciones. Ha demostrado capacidad para alterar la
+disposición de sus piezas, transformando el 3-4-2-1 en un 3-5-2 más plano (introduciendo a un
+segundo delantero físico de referencia para acompañar a Schick, como Hložek o el espigado
+Chorý, de 1.99 metros) o en un 3-5-1-1 (con un mediapunta como Šulc flotando detrás del
+nueve) si necesita solidificar aún más la franja central contra rivales que acumulan muchos
+efectivos en el mediocampo.35
+Sin embargo, su flexibilidad radica en la disposición del mediocampo y la delantera; su
+terquedad absoluta reside en la defensa. Koubek es inquebrantable en su negativa a deshacer
+la línea de tres centrales. Considera que regresar a una línea de cuatro defensas expondría
+fatalmente la falta de velocidad lateral de sus zagueros, como ha ocurrido en ciclos anteriores.11
+Prefiere sacrificar volumen ofensivo, fluidez en la elaboración y talento puro (como evidenció al
+descartar perfiles técnicos que no se adaptan al rigor defensivo del 3-4-3) antes que
+
+comprometer la estabilidad de su bloque.43 Esta rigidez conceptual garantiza que Chequia
+jamás será goleada fácilmente por errores de desorganización, pero también asegura que, si el
+plan A (centros y balón parado) no funciona, el equipo carece de las herramientas estructurales
+para desmontar cerrojos rivales a través del juego asociativo interior.
+
+FASE OFENSIVA Y DEFENSIVA
+Para comprender verdaderamente el ADN futbolístico de la Selección de Chequia, es
+imperativo realizar una disección microscópica de sus comportamientos con y sin balón. El
+análisis profundo de sus fases ofensivas y defensivas revela a un equipo que desprecia la
+estética en favor de la matemática física, basando su éxito en la victoria de duelos individuales
+y la conquista de segundas jugadas.
+
+Rutas de Salida de Balón y Zonas de Ataque
+El manual de salida de balón checo es directo, predecible, y brutalmente físico. Carecen de
+centrales con la sutileza técnica (como un Pau Torres o un John Stones) para romper líneas
+mediante pases filtrados rasos. La instrucción principal de Koubek ante la presión rival es
+utilizar al portero, Matěj Kovář (reconocido por su potente golpeo en largo en el PSV
+Eindhoven), para saltar directamente el mediocampo.4 El objetivo primario de estos balones
+aéreos no es necesariamente que el delantero (Schick) controle el balón de espaldas, sino
+provocar una disputa física en la zona central del campo rival.
+Es aquí donde reside el verdadero secreto de la fase ofensiva checa: la captura del segundo
+balón. El dispositivo táctico está milimétricamente calibrado para que, en el instante en que el
+delantero disputa el duelo aéreo, el doble pivote y los mediapuntas se compriman alrededor del
+punto de caída.46 Tomáš Souček es, a nivel mundial, uno de los mejores mediocampistas
+leyendo la trayectoria de estos rebotes; su capacidad para ganar el segundo balón transforma
+un mero despeje defensivo en el inicio de una transición ofensiva peligrosa en campo
+contrario.47
+En cuanto a las zonas de ataque, el mapa de calor de Chequia evidencia un profundo vacío en
+el carril central interior y una sobrecarga masiva en las bandas. El canal por donde más
+volumen de juego generan es el flanco derecho, capitalizando el despliegue incansable de
+Vladimír Coufal.30 La estrategia ofensiva es rudimentaria pero efectiva: forzar la posesión hacia
+la banda derecha, buscar el desborde o, en su defecto, forzar faltas y saques de esquina cerca
+del banderín para activar su arma más letal, la jugada a balón parado.13 No hay triangulaciones
+finas en la frontal del área; si la banda derecha está bloqueada, el equipo recicla la posesión a
+través de los centrales en forma de "U" para intentar exactamente lo mismo por la banda
+izquierda con David Jurásek o Jaroslav Zelený.37
+
+Altura del Bloque Defensivo e Intensidad de Presión (PPDA)
+Las métricas avanzadas confirman lo que el ojo clínico observa: Chequia es un equipo de
+bloque medio-bajo. Su índice de PPDA (Passes Allowed Per Defensive Action), que mide la
+intensidad de la presión en campo rival, se sitúa significativamente por debajo de la media
+europea de los equipos que clasificaron al Mundial.41 Esto significa que permiten al rival
+
+encadenar múltiples pases en la fase de iniciación sin ser hostigados.
+Koubek ha implementado un sistema de "gatillos de presión" (pressing triggers) altamente
+condicionados. El equipo no salta a presionar a los centrales rivales cuando tienen el balón
+controlado y visión de frente. Los carrileros y mediapuntas solo abandonan su posición
+estructural para morder al portador del balón cuando se cumplen condiciones muy específicas:
+un pase lateral mal medido, un control largo del oponente, o cuando el rival recibe de espaldas
+a la portería en los pasillos exteriores. Si estos gatillos no se activan, la directriz es retroceder
+en bloque y fijar la línea defensiva cerca de la frontal del área propia. Ceden deliberadamente
+el territorio, prefiriendo defender en un radio de 25 metros desde su portería, donde la agilidad
+de los atacantes rivales se neutraliza por la abrumadora densidad de piernas checas.2
+
+Comportamiento de los Centrales
+El trío de centrales opera con mecánicas claramente diferenciadas, creando una asimetría
+funcional diseñada para proteger sus propias debilidades.
+Por un lado, tenemos a los centrales posicionadores o bloqueadores (generalmente Robin
+Hranáč y David Zima, o Martin Vitík). Su comportamiento es pasivo; rara vez rompen la línea
+defensiva. Su misión principal es mantener la profundidad, vigilar la espalda del carrilero de su
+sector, bascular lateralmente y ganar los innumerables duelos aéreos que se generan en el
+área.4 Tienen prohibido salir a cazar atacantes fuera de su zona de confort, ya que carecen de
+la aceleración necesaria para recuperar la posición si son eludidos.
+Por otro lado, se encuentra el rol del central agresor, encarnado a la perfección por el nuevo
+capitán, Ladislav Krejčí (central zurdo del Wolverhampton).4 Krejčí tiene "licencia para cazar".
+Es el encargado de realizar el jump to press (saltar a presionar); cuando un delantero rival
+desciende al mediocampo para recibir el balón de espaldas o hacer de pívot, Krejčí rompe la
+línea de tres centrales, persiguiéndolo agresivamente incluso hasta el círculo central, buscando
+la anticipación o forzando la falta táctica.4 Mientras Krejčí abandona su zona, Souček y el otro
+mediocentro defensivo realizan coberturas basculando hacia atrás para rellenar el hueco
+dejado por el capitán en la zaga. Este comportamiento escalonado es el corazón de la solidez
+defensiva checa, permitiéndoles ser el equipo con mayor cantidad de intercepciones (88) y
+tackles exitosos (160) durante toda la eliminatoria europea.13
+
+TRANSICIONES Y BALÓN PARADO
+Es en los momentos de transición y en las reanudaciones del juego donde la Selección de
+Chequia dicta el verdadero ritmo de los partidos. Al ser un equipo que renuncia voluntariamente
+a la iniciativa del juego, su capacidad de dañar al rival y su propia supervivencia dependen casi
+matemáticamente de su eficiencia en estos micro-momentos.
+
+Velocidad y Veneno al Contragolpe (Transición Defensa-Ataque)
+El contragolpe checo no se caracteriza por la filigrana, sino por la verticalidad punzante y el
+atletismo crudo.2 Tras robar el esférico en bloque bajo, el equipo tiene prohibido lateralizar el
+juego. El objetivo es lanzar la transición ofensiva en menos de tres segundos. Pavel Šulc,
+volante ofensivo del Olympique Lyonnais, es el vector principal en esta fase.4 Su capacidad
+
+para recibir al espacio, girar rápidamente y conducir el balón en carrera fractura las líneas
+defensivas rivales que se encuentran desorganizadas por estar en fase de despliegue.4 Si la
+conducción central de Šulc no es viable, la alternativa inmediata es el desplazamiento en largo
+diagonal, activando las carreras explosivas de los carrileros, especialmente Coufal, buscando
+sorprender la espalda del lateral adversario que ha subido al ataque. Es un veneno táctico:
+pocas oportunidades, pero ejecutadas con máxima velocidad y mínima fricción.
+
+Fragilidad en el Repliegue (Transición Ataque-Defensa)
+Paradójicamente, el mayor "talón de Aquiles" del sistema pragmático de Koubek reside en su
+vulnerabilidad estructural durante la transición ataque-defensa (Rest-Defense).38 Dado que el
+modelo ofensivo depende de que los carrileros pisen línea de fondo para centrar, cuando
+Chequia pierde el esférico en el último tercio del campo rival, su estructura defensiva preventiva
+queda peligrosamente desarmada.
+En ese instante de pérdida, el equipo queda defendiendo esencialmente con sus tres centrales
+desplegados a lo ancho del campo y el doble pivote, mientras los carrileros se encuentran a
+más de 60 metros de distancia. Si el rival posee la clarividencia técnica para eludir la primera
+oleada de presión de Souček o evitar la falta táctica, logran lanzar balones largos a las
+espaldas de la defensa checa. En este escenario a campo abierto, centrales físicos y robustos
+como Hranáč y Krejčí quedan expuestos a situaciones de uno contra uno frente a atacantes
+rápidos.38 Al carecer de la velocidad punta y la agilidad de cadera necesarias para retroceder
+en carrera, se ven superados fácilmente en velocidad, lo que los obliga a recurrir al tackle
+desesperado, resultando frecuentemente en tarjetas amarillas u ocasiones de alto peligro. Esta
+fragilidad estructural es el defecto congénito del 3-4-2-1 cuando no se ejecuta con defensas de
+perfil élite atlético.
+
+Eficacia Absoluta en Córners y Tiros Libres
+El análisis de las jugadas a balón parado (ABP) de Chequia no describe una simple
+herramienta complementaria; detalla su matriz ofensiva fundamental y su principal argumento
+para competir en la Copa del Mundo. La superioridad checa en la pelota parada es apabullante,
+respaldada por estadísticas que aterrorizan a los analistas rivales: durante toda la fase de
+clasificación europea, Chequia anotó la monumental cifra de 10 goles provenientes de
+saques de esquina y tiros libres directos/indirectos, la mayor cantidad de cualquier
+selección en el continente.13
+Este dominio no es fruto del azar, sino de la conjunción de especialistas en el golpeo y una
+genética anatómica dominante. La selección checa tiene una media de altura de 185.73 cm,
+con 11 de los 26 convocados superando holgadamente los 1.90 metros (Chorý 1.99m, Kovář
+1.96m, Souček 1.92m, Krejčí 1.91m, Schick 1.91m, Hranáč 1.89m).50 En cualquier córner a
+favor, el área rival se convierte en una batalla campal donde la física simple (masa multiplicada
+por vector de salto) favorece abrumadoramente a los checos.
+Dinámica en Balón
+
+Jugador Asignado
+
+Contexto Táctico y
+
+Parado
+
+Efectividad Real
+
+Penaltis (A favor)
+
+Patrik Schick
+
+Rematador clínico de élite.
+Asume la presión
+psicológica con frialdad.
+Efectividad máxima
+comprobada a nivel
+internacional y de clubes
+(Bayer Leverkusen).13
+
+Córners (Ejecución)
+
+Václav Černý / Pavel Šulc
+/ Lukáš Provod
+
+Ejecutores de primer nivel.
+Priorizan envíos cerrados
+(in-swinging) directos al
+corazón del área chica,
+buscando el desvío violento
+antes de que el portero
+pueda reaccionar.13
+
+Tiros Libres (Ejecución)
+
+Pavel Šulc / Václav Černý
+/ Lukáš Provod
+
+Amplio abanico de
+opciones. Šulc para
+disparos directos técnicos
+por encima de la barrera;
+Provod para envíos
+laterales venenosos.13
+
+Rematadores Aéreos
+Objetivo
+
+Tomáš Souček / Ladislav
+Krejčí / Tomáš Chorý
+
+Krejčí ataca los bloqueos
+en el primer palo, mientras
+que Souček carga por el
+segundo palo arrasando
+marcas en estático. Chorý
+es utilizado como señuelo
+para atraer a dos centrales
+o rematar por pura
+elevación sobre su eje
+(1.99m).4
+
+En fase defensiva contra el balón parado, su efectividad es igualmente asfixiante. Implementan
+un sistema de marcaje mixto: los jugadores más altos establecen una zona zonal rígida en el
+punto de penal y el área chica para rechazar balones frontales, mientras que zagueros más
+agresivos (como Holeš) realizan un marcaje al hombre severo sobre los especialistas del
+equipo contrario. Como resultado, es extremadamente raro ver a Chequia conceder goles
+limpios de cabeza en saques de esquina; obligan al rival a recurrir a jugadas de laboratorio o
+disparos desde el borde del área tras el rechace inicial.
+
+RADIOGRAFÍA DE LOS 26: EL FACTOR HUMANO
+El análisis frío de la lista de 26 jugadores presentada por Miroslav Koubek para la Copa del
+Mundo 2026 revela una plantilla polarizada. Conviven en ella veteranos curtidos en las batallas
+de la Premier League y la Bundesliga, con figuras emergentes de la liga doméstica (Slavia,
+Sparta y Viktoria Plzeň), pero con vacíos de calidad evidentes en la segunda unidad.1
+
+El Muro Bajo Palos (Arqueros)
+La portería checa es, sin lugar a dudas, la posición mejor cubierta y con mayor profundidad de
+talento real. El titular indiscutible es Matěj Kovář (25 años, PSV Eindhoven). Tras formarse en
+el Manchester United y coronarse campeón en Países Bajos, Kovář (1.96m) se consagró como
+el héroe absoluto de la clasificación mundialista al detener dos penaltis cruciales en los
+agónicos playoffs contra Irlanda y Dinamarca.4 Es un portero que combina reflejos felinos con
+un dominio total del espacio aéreo en los córners. Su principal relevo es Lukáš Horníček
+(Braga), quien llega en un estado de forma sensacional, presionando la titularidad desde el
+banquillo europeo, mientras que el veterano Jindřich Staněk (Slavia Praga) aporta
+experiencia.4 Resulta crucial destacar la baja voluntaria del talentoso Antonín Kinský
+(Tottenham Hotspur), quien, a pesar de sus brillantes actuaciones en la Premier League que
+ayudaron a salvar a los Spurs del descenso, optó heroicamente por someterse a cirugía de
+verano, sacrificando su sueño mundialista para estar listo para su club, una decisión que resta
+un guardameta de clase mundial a la rotación.61
+
+La Línea de Trinchera (Defensores)
+La zaga central está capitaneada por el nuevo líder absoluto del vestuario: Ladislav Krejčí
+(Wolverhampton). Zurdo, temperamental, agresivo y con un instinto goleador atípico (marcó en
+ambos partidos de playoff), Krejčí es el jugador que contagia la intensidad física al resto del
+bloque.4 A su lado, la incombustibilidad por la banda derecha tiene nombre y apellido: Vladimír
+Coufal (Hoffenheim). El ex-lateral del West Ham es una máquina de despliegue físico y
+suministro de centros.4
+El resto de la línea defensiva presenta luces y sombras considerables. Robin Hranáč
+(Hoffenheim) y David Zima (Slavia Praga) son centrales altos y potentes que ganan el 80% de
+los duelos terrestres y aéreos frontales.50 Sin embargo, son jugadores estructuralmente lentos y
+toscos con el balón en los pies.64 El verdadero héroe anónimo de la defensa es Tomáš Holeš
+(Slavia Praga). A sus 33 años, su inteligencia táctica le permite jugar tanto de central en línea
+de tres como de mediocentro destructor, realizando el "trabajo sucio" invisible: coberturas,
+recuperación de balones sueltos y taponamiento de fugas estructurales bajo presión
+constante.4 Jugadores como David Jurásek, Štěpán Chaloupek y Jaroslav Zelený completan la
+profundidad, siendo recambios funcionales pero sin la jerarquía para alterar el curso de un
+partido complejo.49
+
+La Sala de Máquinas (Mediocampistas)
+El mediocampo es el territorio exclusivo de Tomáš Souček (West Ham United). Aunque la
+
+federación y Koubek lo hayan despojado humillantemente del brazalete de capitán tras el
+conflicto con la grada de Gibraltar, Souček sigue siendo el verdadero y único motor del equipo.5
+Con 31 años, 89 internacionalidades y 17 goles, su perfil de mediocampista box-to-box físico
+(1.92m) es insustituible.20 Es el faro en la recuperación del segundo balón y la amenaza más
+constante llegando desde segunda línea para rematar centros.47
+El contraste creativo lo aporta Pavel Šulc (Olympique Lyonnais). Tras irrumpir con 11 goles en
+la Ligue 1, Šulc es el Factor X, la única pieza de la plantilla con capacidad para el regate en
+espacios reducidos, la invención entre líneas y la finalización clínica; si Šulc tiene un mal día,
+Chequia simplemente no crea fútbol asociado.4 La experiencia adicional llega con Lukáš
+Provod (dinamismo y especialista a balón parado) y el sorpresivo retorno del retiro de Vladimír
+Darida (Hradec Králové), quien volvió para aportar liderazgo y pausa en el cierre de los
+partidos.4
+Sin embargo, el movimiento más audaz de Koubek fue la convocatoria del adolescente Hugo
+Sochůrek (Sparta Praga). Con apenas 17 años y habiendo debutado recientemente en el
+amistoso previo al Mundial contra Kosovo (victoria checa 2-1), Sochůrek carece de rodaje
+profesional pesado, pero inyecta frescura, talento puro y envía un mensaje de meritocracia
+competitiva a todo el plantel.20 El resto de los perfiles (Sadílek, Červ, Sojka, Višinský) son
+peones de desgaste aeróbico destinados a perseguir rivales en las segundas mitades.20
+
+El Arsenal de Choque (Delanteros)
+El peso del gol recae enteramente sobre los hombros de Patrik Schick (Bayer Leverkusen). A
+sus 30 años, el delantero zurdo llega en un gran estado de forma tras anotar 16 goles en la
+Bundesliga y reafirmar su letalidad en el ámbito internacional (25 goles en 52 partidos,
+recordado por su gol desde el medio campo y liderar el goleo en la Euro 2020 junto a Cristiano
+Ronaldo).4 Schick es elegante, define de primer toque y cobra los penales con hielo en las
+venas.4 Sin embargo, su historial clínico es un campo minado de lesiones musculares; su
+fragilidad física es una bomba de tiempo para las aspiraciones checas.20
+Su teórica pareja de ataque, Adam Hložek (Hoffenheim), es un prodigio técnico, pero llega al
+Mundial como una gran incógnita atlética tras sufrir graves lesiones de gemelo y pie que lo
+limitaron a jugar tan solo 37 minutos competitivos en el tramo final de la temporada de clubes.20
+Aunque anotó en el reciente amistoso contra Kosovo, es un riesgo mayúsculo alinearlo en la
+alta exigencia física de un Mundial.28
+Aquí entra el jugador más sobrevalorado y polémico de la convocatoria: Tomáš Chorý (Slavia
+Praga). Con 1.99 metros de altura, Chorý es un poste inamovible en el área. No obstante, llega
+envuelto en la infamia por haber sido suspendido toda la temporada y puesto en la lista de
+transferibles por agresiones violentas en el derbi checo.22 Más allá del bagaje tóxico, táctica y
+físicamente es un delantero unidimensional, torpe con el balón en los pies y sin capacidad de
+desmarque; su utilidad se limita estrictamente a ser un faro para cabezazos en los últimos diez
+minutos de un partido atascado.22 Completan la lista Mojmír Chytil y Jan Kuchta, delanteros de
+presión constante que funcionan como la primera línea de choque para asfixiar la salida rival.59
+
+Profundidad Real del Banquillo
+Al evaluar la calidad integral, la profundidad real del banquillo checo es un espejismo. El once
+titular posee nivel europeo sólido, sustentado por jugadores consolidados en las grandes ligas.
+Sin embargo, la segunda unidad (nutrida en su mayoría por suplentes del Viktoria Plzeň, Slavia
+y Sparta) presenta un descenso de calidad dramático.3 No existen mediocentros organizadores
+creativos para suplir a Šulc si se lesiona, y la defensa central de emergencia sufre pánico en
+los retrocesos a campo abierto.38 El equipo pierde entre un 30% y un 40% de competitividad
+con cada titular sustituido.
+
+VULNERABILIDADES CRÍTICAS (LA SANGRE)
+El pragmatismo de Koubek ha logrado maquillar carencias severas, pero un análisis objetivo de
+inteligencia táctica y fisiológica expone el "talón de Aquiles" de Chequia, perfilando un
+escenario donde, bajo circunstancias específicas, el equipo puede ser completamente
+destruido.
+
+1. Colapso Fisiológico Inducido por Altitud (El Factor Ambiental)
+La mayor vulnerabilidad crítica de Chequia no es táctica, sino biológica. El modelo de juego
+checo exige un derroche aeróbico y anaeróbico superlativo: choques constantes, presión
+intensa en ráfagas (pressing triggers), recorridos larguísimos de los carrileros y repliegues
+veloces a bloque bajo.2 Jugar la fase de grupos en sedes como Guadalajara (1,500m) y la
+asfixiante Ciudad de México (2,200m) contra selecciones habituadas a estas exigencias (como
+el anfitrión México), mientras se hospedan en el nivel del mar en Dallas (300m), desencadenará
+un déficit de oxígeno brutal en la musculatura de los jugadores europeos.31 Por dónde se
+rompen: A partir del minuto 65, la hipoxia genera fatiga sistémica y lentitud mental. Las líneas
+checas, habitualmente compactas, comienzan a separarse peligrosamente. La brecha entre los
+centrales y el doble pivote se expande a 15-20 metros. Los rivales que puedan sostener la
+posesión del balón y hacerlos correr lateralmente encontrarán que, en el tramo final del
+encuentro, los zagueros checos llegan tarde a todas las coberturas y marcas.
+
+2. Violación del "Rest-Defense" mediante Extremos Veloces
+El segundo patrón destructivo evidente ataca directamente el defecto de su formación
+3-4-2-1.38 Al adelantar simultáneamente a los carrileros Coufal y Jurásek para ganar amplitud
+en fase ofensiva, la estructura preventiva (Rest-Defense) queda desnuda, sostenida
+únicamente por tres centrales robustos pero lentos en giros de cadera.38 Qué tipo de rival los
+destruye: Selecciones que juegan al contragolpe con extremos eléctricos, regateadores y con
+aceleración pura (perfiles tipo extremos africanos o sudamericanos). Cuando Chequia pierde el
+balón en 3/4 de cancha y el rival lanza un trazo largo directo a la espalda de los carrileros
+checos, centrales como Hranáč y Zima quedan forzados a defender corriendo hacia atrás, a
+campo abierto y en situaciones de uno contra uno. En este contexto, son estadísticamente
+superados, viéndose forzados a cometer faltas tácticas que los cargan rápidamente de
+amonestaciones, limitando su agresividad el resto del partido.38
+
+3. Rigidez Creativa contra el Bloque Bajo
+Los errores más comunes de Chequia en ataque posicional ocurren cuando se enfrentan a un
+rival menor que les cede deliberadamente el balón y se repliega en su propia área. Chequia no
+sabe qué hacer con el balón en los pies ante una defensa estacionada.4 Carecen del talento
+interior para filtrar balones por los pasillos interiores mediante triangulaciones rápidas. Esto
+genera un bucle de frustración táctica: al no poder penetrar por el centro, los mediocampistas
+se ven obligados a abrir el balón repetitivamente hacia las bandas para buscar centros frontales
+previsibles desde 35 metros. Estos envíos son fácilmente despejados por zagueros atentos, lo
+que detona pérdidas de balón no forzadas y regala oportunidades de contragolpe al rival en
+zonas donde la retaguardia checa está mal perfilada.
+
+4. La Ponderación de la Masa sobre la Agilidad
+El exceso de envergadura física (11 jugadores por encima de los 1.90m) 56 se convierte en una
+condena ante mediapuntas escurridizos. Rivales con jugadores creativos de centro de
+gravedad bajo y gran técnica individual en espacios reducidos logran sacar de posición a
+Souček, Sadílek o Krejčí con simples fintas de cuerpo. Al intentar recuperar la posición, la
+inercia de la masa de los jugadores checos los arrastra al contacto físico a destiempo,
+generando faltas peligrosas al borde del área propia.
+
+CONTEXTO BETTING (APUESTAS): TENDENCIAS Y
+PATRONES DE COMPORTAMIENTO
+Desde la óptica de un analista de un sindicato de apuestas deportivas, la Selección Nacional de
+Chequia es uno de los equipos que presenta patrones matemáticos y de comportamiento más
+consistentes y predictibles a nivel internacional. Sus características anatómicas y el
+dogmatismo táctico de Miroslav Koubek cristalizan tendencias de altísimo valor de inversión,
+especialmente en los mercados secundarios.
+
+Radiografía de Mercados de Inversión
+
+Mercado / Prop Betting
+
+Tendencia Estadística y
+Justificación Analítica
+
+Índice de Confianza
+
+Over de Córners Totales
+(Equipo + Rival)
+
+Tendencia Histórica Muy
+Alta: Chequia promedió 7.5
+córners a favor por
+partido durante el ciclo
+clasificatorio mundialista.13
+Su sistema ofensivo
+prescinde del ataque
+interior, canalizando
+
+Muy Alto
+
+sistemáticamente el balón
+hacia los carriles exteriores
+para buscar centros al área
+o forzar saques de
+esquina.13 Además, su
+postura reactiva sin balón,
+encerrándose en un bloque
+bajo-medio, permite al rival
+rematar y centrar con
+frecuencia, lo que también
+genera un alto volumen de
+córners en contra. Las
+líneas globales de Over 9.5
+o Over 10.5 córners en el
+partido presentan un valor
+matemático sustancial.74
+Mercado de Tarjetas (Over
+Team Yellow Cards)
+
+Extrema Tendencia al
+Over: El modelo defensivo
+checo depende de la
+intensidad física, las faltas
+tácticas para cortar
+transiciones y el choque
+constante cuerpo a cuerpo.
+Esto se refleja en sus
+promedios escalofriantes:
+4.3 tarjetas amarillas por
+partido en la pasada Euro
+2024 y 3.3 amarillas en la
+UEFA Nations League
+2025.77 La fragilidad de sus
+centrales lentos al quedar
+expuestos a campo abierto
+(Krejčí, Hranáč) obliga a
+derribos sancionables.38 A
+esto se suma la presencia
+de perfiles volátiles y
+disciplinariamente tóxicos
+como Chorý y Douděra,
+suspendidos
+reiteradamente en su liga.22
+
+Muy Alto
+
+Las líneas de Más de 2.5
+Tarjetas para Chequia son
+inversiones altamente
+recomendadas.
+Over/Under de Goles
+(Match Goals 2.5+)
+
+Preferencia por el Over
+2.5: Pese a la etiqueta de
+"equipo pragmático", los
+partidos clave de Chequia
+suelen descontrolarse
+estructuralmente. Sus
+defensores son superados
+en velocidad fácilmente,
+pero su dominio absoluto a
+balón parado siempre
+garantiza goles a su favor.
+Ejemplos recientes
+confirman la tendencia: 2-2
+vs Irlanda (playoff), 2-2 vs
+Dinamarca (playoff), y
+triunfos holgados como el
+6-0 vs Gibraltar.12 Su
+incapacidad para sellar
+partidos ajustados sin balón
+abre la puerta a
+marcadores de tres o más
+goles.
+
+Medio - Alto
+
+Distribución de Goles (En
+qué mitades se
+anota/recibe más)
+
+Segunda Mitad y Tramos
+Finales: El análisis
+fisiológico de su
+campamento logístico lo
+confirma. Debido al colapso
+de oxígeno proyectado por
+jugar a gran altitud en
+México (1,500m y 2,200m)
+frente a equipos
+aclimatados, el bloque
+defensivo checo sufrirá
+fatiga severa a partir del
+minuto 60.31
+Estadísticamente, en las
+
+Alto
+
+primeras mitades, Chequia
+logra mantener el candado
+táctico, propiciando
+posibles Under 1.5 al
+descanso. Sin embargo, en
+el segundo tiempo, la falta
+de cobertura defensiva abre
+vías de agua por donde los
+rivales anotan.
+Paradójicamente, Chequia
+también anota mucho al
+final de los partidos gracias
+al desgaste que provocan
+en la defensa rival en la
+disputa constante del balón
+parado (como los goles
+salvadores de Krejčí en las
+prórrogas/finales de los
+playoffs).12 Propuesta de
+valor: Mayor número de
+goles en el Segundo
+Tiempo.
+Player Props
+(Rendimiento Individual)
+
+1. Patrik Schick (Remates
+a Puerta): Es el faro
+ofensivo y el cobrador
+oficial de penaltis del
+equipo.13 La ofensiva
+vertical busca
+sistemáticamente su remate
+de primera intención.
+2. Tomáš Souček (Goles
+Anytime): Es el dark horse
+de las apuestas goleadoras.
+Pese a ser mediocampista,
+sus 17 goles
+internacionales provienen
+casi exclusivamente de
+cazar segundos balones
+sueltos en el área o
+remates de cabeza
+
+Alto
+
+implacables en jugadas de
+estrategia.47 Sus cuotas por
+anotar siempre están
+infladas por su posición
+nominal, ofreciendo un
+altísimo retorno de
+inversión.
+En síntesis analítica, la Chequia de Miroslav Koubek es un ecosistema táctico rudimentario
+pero peligroso, basado en el pragmatismo, el poderío aéreo y la fuerza bruta. Representan una
+amenaza letal en los primeros sesenta minutos para cualquier rival que no respete su dominio
+en el balón parado o su verticalidad en transición. Sin embargo, sus costuras fisiológicas y
+tácticas son demasiado evidentes frente a perfiles opuestos. Su rigidez creativa con balón, la
+exasperante lentitud de su primera línea y el inevitable colapso por el estrés ambiental
+provocado por la geografía mexicana, los perfilan como un equipo vulnerable a caídas
+catastróficas en el epílogo de los encuentros. Para la óptica experta del betting, esta selección
+no es un equipo en el que confiar para grandes gestas, pero sí una maquinaria predecible
+perfecta para explotar las fallas de sus defensores (tarjetas) y la perseverancia matemática de
+sus extremos (córners).
+
+Obras citadas
+1.​ Czech Republic Taps Veteran Experience and Domestic Champions Slavia
+
+Prague for Final World Cup Squad, fecha de acceso: junio 3, 2026,
+https://www.fanatik.com.tr/en/czech-republic-taps-veteran-experience-and-domesti
+c-champions-slavia-prague-for-final-world-cup-squad-2625510
+2.​ Soccer-Physical Czechs will look to win ugly to qualify from Group A, fecha de
+acceso: junio 3, 2026,
+https://whbl.com/2026/06/01/soccer-physical-czechs-will-look-to-win-ugly-to-qualif
+y-from-group-a/
+3.​ Tough group: World Cup's oldest coach to spearhead 'unyielding' Czechs - RTL
+Today, fecha de acceso: junio 3, 2026,
+https://today.rtl.lu/sport/international/world-cups-oldest-coach-to-spearhead-unyiel
+ding-czechs-1776055650
+4.​ Czechia World Cup 2026 team guide | Czechia | The Guardian, fecha de acceso:
+junio 3, 2026,
+https://www.theguardian.com/football/2026/may/27/czechia-world-cup-2026-teamguide
+5.​ Clash with fans sees Soucek stripped of Czech Republic captaincy & squad
+denied bonuses, fecha de acceso: junio 3, 2026,
+https://www.flashscore.com/news/soccer-world-cup-clash-with-fans-sees-soucek-s
+tripped-of-czech-republic-captaincy-squad-denied-bonuses/bkc5EwJP/
+6.​ FIFA World Cup Group A preview: Mexico, South Korea target group
+progress-Xinhua, fecha de acceso: junio 3, 2026,
+
+http://www.xinhuanet.com/english/20260603/727e0a11eb2c4b48b53d499c582a6d
+0c/c.html
+7.​ 'First Opponent for Korea' Czech Match Previewed as a Muddy Battle: "Even If It's
+Not Pretty, We Win"... Warning on Set-Piece 'One-Shot', fecha de acceso: junio 3,
+2026,
+https://www.starnewskorea.com/en/sports/2026/06/03/2026060309474981076
+8.​ Bafana Bafana face uphill battle in tough group at 2026 Fifa World Cup - Daily
+Maverick, fecha de acceso: junio 3, 2026,
+https://www.dailymaverick.co.za/article/2026-06-01-bafana-bafana-face-uphill-battl
+e-in-tough-group-at-2026-fifa-world-cup/?dm_source=blocks-category&dm_mediu
+m=card-link&dm_campaign=inform
+9.​ Viktoria Plzen: From the brink of bankruptcy to famous European nights |
+Flashscore.com.gh, fecha de acceso: junio 3, 2026,
+https://www.flashscore.com.gh/news/soccer-chance-liga-flashfocus-from-the-brink
+-of-bankruptcy-to-european-nights-viktoria-plzen-are-on-the-rise/GWG6QZ1c/
+10.​UEFA Europa Conference League: Group stage summary, fecha de acceso: junio
+3, 2026,
+https://www.uefatechnicalreports.com/programme/2024-uefa-europa-conference-l
+eague/road-to-the-final/group-stage/page/1
+11.​ indy-11 | The Ole BallCoach, fecha de acceso: junio 3, 2026,
+https://theoleballcoach.com/tag/indy-11/
+12.​Match Report | Czechia 2-2 Republic of Ireland (4-3 pens) - Heartbreak in Prague,
+fecha de acceso: junio 3, 2026,
+https://www.fai.ie/latest/match-report-czechia-2-2-republic-ireland-4-3-pens-heartb
+reak-prague/
+13.​Czech Republic World Cup 2026: Fixtures, key players and tactical analysis |
+Squawka | EN, fecha de acceso: junio 3, 2026,
+https://www.squawka.com/en/news/world-cup/czech-republic-world-cup-2026-fixtu
+res-players-tactical-analysis/
+14.​Czech Republic Returns to World Cup After 20 Years, Led by 75-Year-Old Coach,
+fecha de acceso: junio 3, 2026,
+https://www.chosun.com/english/sports-en/2026/04/01/Q25UAMV5FVB57IKNOYA
+DVKQJGA/
+15.​Form and head to head stats Czech Rep vs Denmark - Sky Sports, fecha de
+acceso: junio 3, 2026,
+https://www.skysports.com/football/czech-republic-vs-denmark/stats/550728
+16.​Czech Republic boss says Tomas Soucek still key player despite not being
+captain, fecha de acceso: junio 3, 2026,
+https://www.breakingnews.ie/sport/czech-republic-boss-says-tomas-soucek-still-ke
+y-player-despite-not-being-captain-1879549.html
+17.​Czech Republic punishes national team for ignoring fans after World Cup qualifier,
+fecha de acceso: junio 3, 2026,
+https://apnews.com/article/czech-team-punished-fans-2348cd8afe49f12fb34622cc
+40e3d280
+18.​Didn't thank the fans - loses the captain's armband - Sweden Herald, fecha de
+
+acceso: junio 3, 2026,
+https://swedenherald.com/article/didnt-thank-the-fans-loses-the-captains-armband
+19.​2026 World Cup European Qualifiers | Czechia vs. Gibraltar - Full Game
+Highlights, fecha de acceso: junio 3, 2026,
+https://www.youtube.com/watch?v=gTmn9KKllW0
+20.​Leverkusen striker Schick to lead Czech attack at World Cup | Arab ..., fecha de
+acceso: junio 3, 2026, https://www.arabnews.com/node/2645597/sport
+21.​Soccer-Physical Czechs will look to win ugly to qualify from Group A, fecha de
+acceso: junio 3, 2026,
+https://kfgo.com/2026/06/01/soccer-physical-czechs-will-look-to-win-ugly-to-qualify
+-from-group-a/
+22.​Prague derby abandoned after fans storm pitch with Slavia seconds from title The Guardian, fecha de acceso: junio 3, 2026,
+https://www.theguardian.com/football/2026/may/10/slavia-sparta-prague-derby-ab
+andoned-fans-storm-pitch-title
+23.​Fans invade pitch, target players during Czech derby - Taipei Times, fecha de
+acceso: junio 3, 2026,
+https://www.taipeitimes.com/News/sport/archives/2026/05/12/2003857176
+24.​Slavia Prague ordered to forfeit derby with Sparta as stadium closes for four
+matches, fecha de acceso: junio 3, 2026,
+https://www.flashscore.com/news/soccer-chance-liga-slavia-prague-ordered-to-forf
+eit-derby-with-sparta-as-stadium-closes-for-four-matches/OEmoYoNE/
+25.​Slavia Prague faces sanctions for derby pitch invasion, attacks on Sparta players
+in Czech league | FOX Sports, fecha de acceso: junio 3, 2026,
+https://www.foxsports.com/articles/soccer/slavia-prague-faces-sanctions-for-derby
+-pitch-invasion-attacks-on-sparta-players-in-czech-league
+26.​Czechs lean on experience for World Cup return - CNA, fecha de acceso: junio 3,
+2026,
+https://www.channelnewsasia.com/sport/czechs-lean-experience-world-cup-return
+-6115651
+27.​Czechs lean on experience for World Cup return - Sports - Business Recorder,
+fecha de acceso: junio 3, 2026,
+https://www.brecorder.com/news/40420819/czechs-lean-on-experience-for-world-c
+up-return
+28.​Czech Republic's final World Cup squad includes 17-year-old Hugo Sochůrek |
+FOX Sports, fecha de acceso: junio 3, 2026,
+https://www.foxsports.com/articles/soccer/czech-republics-final-world-cup-squad-i
+ncludes-17yearold-hugo-sochurek
+29.​Teenage Sochurek gets susprise call-up as Czech Republic announce World Cup
+squad, fecha de acceso: junio 3, 2026,
+https://www.flashscore.com/news/soccer-world-cup-teenage-sochurek-gets-suspri
+se-call-up-as-czech-republic-announce-world-cup-squad/r3YpyVyA/
+30.​Adam Hlozek recovers to make provisional Czechia squad, fecha de acceso: junio
+3, 2026, https://www.fifa.com/en/articles/czechia-world-cup-squad-announced
+31.​Czech Republic Faces High-Altitude Challenges in World Cup Group Stage, fecha
+
+de acceso: junio 3, 2026,
+https://www.chosun.com/english/sports-en/2026/04/09/YRPVSRPB65AJJKOZNFL
+XISGOBE/
+32.​Czech team fears altitude effects ahead of World Cup group matches in Mexico
+and US, fecha de acceso: junio 3, 2026,
+https://biz.chosun.com/en/en-sports/2026/04/09/I7RVJA37XZCUFJWR2FJ25IIY2
+E/
+33.​How to buy Czech Republic vs Mexico tickets: World Cup ticket prices, Estadio
+Azteca information & more, fecha de acceso: junio 3, 2026,
+https://www.goal.com/en-om/news/czech-republic-vs-mexico-world-cup-tickets-ho
+w-to-buy/blt902d21cb680b7f17
+34.​FIFA World Cup Group A preview: Mexico, South Korea target group progress,
+fecha de acceso: junio 3, 2026,
+http://www.china.org.cn/2026-06/03/content_118529260.shtml
+35.​Miroslav Koubek - Manager profile | Transfermarkt, fecha de acceso: junio 3,
+2026, https://www.transfermarkt.com/miroslav-koubek/profil/trainer/9822
+36.​Denmark – Czech Republic: Czech Republic seal a World Cup Spot, fecha de
+acceso: junio 3, 2026,
+https://betweentheposts.net/denmark-czech-republic-czech-republic-seal-a-worldcup-spot-on-penalties-after-set-piece-thriller-2-2-3-1-after-penalties/
+37.​Czech Football's Left Backs: Key Players & Strategies - Covid, fecha de acceso:
+junio 3, 2026,
+https://covid.fabriciano.mg.gov.br/official-origin/czech-footballs-left-backs-key-play
+ers-and-strategies-1764819694
+38.​Czech Republic Preliminary Squad for Fifa World Cup 2026 - YouTube, fecha de
+acceso: junio 3, 2026, https://www.youtube.com/watch?v=74TDpoD7JuE
+39.​FC Viktoria Plzeň | Spieltag 1, Ligaphase | UEFA Europa League | 2024/25 Eintracht Frankfurt, fecha de acceso: junio 3, 2026,
+https://en.eintracht.de/news/gegnercheck-fc-viktoria-plzen-161763/
+40.​Live Commentary - Czech Rep vs Denmark | 31.03.2026 - Sky Sports, fecha de
+acceso: junio 3, 2026,
+https://www.skysports.com/football/czech-republic-vs-denmark/550728
+41.​Euro U21 2023: Czech Republic – Tactical Analysis, fecha de acceso: junio 3,
+2026,
+https://totalfootballanalysis.com/article/euro-u21-czech-republic-tactical-analysis-s
+cout-report-tactics
+42.​2024/25 team preview: FC Viktoria Plzeň | by Tomas Danicek | Medium, fecha de
+acceso: junio 3, 2026,
+https://tdanicekt.medium.com/2024-25-team-preview-fc-viktoria-plze%C5%88-1f7f
+6aa3a69a
+43.​At the moment we can talk about a successful start to the spring, says coach
+Koubek | FC VIKTORIA Plzeň, fecha de acceso: junio 3, 2026,
+https://www.fcviktoria.cz/eng/clanek.asp?id=54367
+44.​ALEX CROOK: Tales of the Unexpected - Star Sports, fecha de acceso: junio 3,
+2026, https://www.starsportsbet.co.uk/alex-crook-tales-of-the-unexpected/
+
+45.​fecha de acceso: junio 3, 2026,
+
+https://www.fotmob.com/players/1077903/matej-kovar#:~:text=comprehensive%20
+performance%20analytics.-,In%20the%202025%2F2026%20Eredivisie%20seaso
+n%2C%20Matej%20Kov%C3%A1r%20has%20recorded,average%20FotMob%20
+rating%20of%206.96.&text=and%20advanced%20statistics%3A-,May%2031%2C
+%202026%3A%202%2D1%20win%20at%20home%20vs,90%20minutes%2C%2
+07.9%20FotMob%20rating)&text=6.2%20FotMob%20rating)-,April%2023%2C%2
+02026%3A%206%2D1%20win%20at%20home,vs%20PEC%20Zwolle%20(unuse
+d%20substitute)
+46.​CZECK REPUBLIC vs MONTENEGRO | WORLD CUP QUALIFIERS 2026 YouTube, fecha de acceso: junio 3, 2026,
+https://www.youtube.com/watch?v=-Qugc_DdL5Q
+47.​Highlights and Goals Czech Republic 2-1 Kosovo in International Friendly, fecha
+de acceso: junio 3, 2026,
+https://www.vavel.com/en-us/soccer/2026/05/31/1262389-czech-republic-vs-kosov
+o-live-score-friendly-match.html
+48.​Czechia-Gibraltar | Line-ups | European Qualifiers 2026 - UEFA.com, fecha de
+acceso: junio 3, 2026,
+https://www.uefa.com/european-qualifiers/match/2044337--czechia-vs-gibraltar/lin
+eups/
+49.​Premier League players appearing at FIFA World Cup 2026 by nation, fecha de
+acceso: junio 3, 2026,
+https://www.premierleague.com/en/news/4664379/premier-league-players-appeari
+ng-at-fifa-world-cup-2026-by-nation/
+50.​Robin Hranáč Stats, Goals, Records, Assists, Cups and more | FBref.com, fecha
+de acceso: junio 3, 2026, https://fbref.com/en/players/95d5aea2/Robin-Hranac
+51.​Robin Hranac | Stats 2025/2026 | Performance Data | Form Check, fecha de
+acceso: junio 3, 2026, https://one-versus-one.com/en/players/Robin-Hranac
+52.​Ladislav Krejcí - stats, career and market value - FotMob, fecha de acceso: junio
+3, 2026, https://www.fotmob.com/players/798029/ladislav-krejci
+53.​Ladislav Krejcí Stats This Season & Career Statistics | Premier League, fecha de
+acceso: junio 3, 2026,
+https://www.premierleague.com/en/players/431248/ladislav-krejci/stats
+54.​Ladislav Krejci Soccer Stats & News | RotoWire, fecha de acceso: junio 3, 2026,
+https://www.rotowire.com/soccer/player/ladislav-krejci-33647
+55.​Ladislav Krejcí english-premier-league - Krejci - LALIGA, fecha de acceso: junio 3,
+2026, https://www.laliga.com/en-GB/player/ladislav-krejci-ii
+56.​Czech Republic's height, Mexico's old and new harmony, South Africa's
+organizational power. The Kore.., fecha de acceso: junio 3, 2026,
+https://www.mk.co.kr/en/sports/12064988
+57.​PSV Eindhoven - Matěj Kovář 25/26 Season Stats - LiveScore, fecha de acceso:
+junio 3, 2026, https://www.livescore.com/en/season-stats/matej-kovar/1473/
+58.​2026 World Cup Set-Piece Takers: Penalties, Corners & Free Kicks by Team |
+RotoWire, fecha de acceso: junio 3, 2026,
+https://www.rotowire.com/soccer/article/2026-world-cup-penalty-corner-and-free-ki
+
+ck-takers-by-team-114076
+59.​Czechia at FIFA World Cup 2026: All players, full squad list, key stats and
+schedule, fecha de acceso: junio 3, 2026,
+https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list
+-key-stats-schedule
+60.​Czechia at the 2026 World Cup: roster, list, players, group and schedule, fecha de
+acceso: junio 3, 2026,
+https://en.as.com/soccer/world-cup/czechia-at-the-2026-world-cup-roster-list-playe
+rs-group-and-schedule-f202606-n/
+61.​'Vital' Tottenham player sacrifices World Cup dream for relegation battle, fecha de
+acceso: junio 3, 2026,
+https://readtottenham.com/2026/05/21/kinsky-sacrifices-world-cup-dream-for-totte
+nham-relegation-battle/
+62.​Antonín Kinský (footballer, born 2003) - Wikipedia, fecha de acceso: junio 3, 2026,
+https://en.wikipedia.org/wiki/Anton%C3%ADn_Kinsk%C3%BD_(footballer,_born_2
+003)
+63.​Liverpool humbled by Sunderland and Palace in World Cup rankings, fecha de
+acceso: junio 3, 2026,
+https://www.football365.com/news/sunderland-and-palace-humble-big-six-with-thei
+r-2026-world-cup-participants
+64.​fecha de acceso: junio 3, 2026,
+https://www.fotmob.com/players/1225995/robin-hranac#:~:text=In%20the%20202
+5%2F2026%20Bundesliga,recent%20matches%20are%20shown%20below.
+65.​Robin Hranáč | TSG Hoffenheim | Player Profile - Bundesliga, fecha de acceso:
+junio 3, 2026, https://www.bundesliga.com/en/player/robin-hranac
+66.​Internationals | Souček named in Czechia 2026 FIFA World Cup squad - West
+Ham United, fecha de acceso: junio 3, 2026,
+https://whufc.com/en/news/internationals-or-soucek-named-in-czechia-2026-fifa-w
+orld-cup-squad
+67.​Vladimír Darida - Wikipedia, fecha de acceso: junio 3, 2026,
+https://en.wikipedia.org/wiki/Vladim%C3%ADr_Darida
+68.​Hugo Sochurek - Player profile 25/26 - Transfermarkt, fecha de acceso: junio 3,
+2026, https://www.transfermarkt.com/hugo-sochurek/profil/spieler/1206877
+69.​STAR NFL PREVIEW Sun: Houston Texans @ New England Patriots, fecha de
+acceso: junio 3, 2026,
+https://www.starsportsbet.co.uk/star-nfl-preview-sun-houston-texans-new-englandpatriots/
+70.​STAR NFL PREVIEW Sun: San Francisco 49ers @ Philadelphia Eagles, fecha de
+acceso: junio 3, 2026,
+https://www.starsportsbet.co.uk/star-nfl-preview-sun-san-francisco-49ers-philadelp
+hia-eagles-3/
+71.​Czech Republic vs Guatemala Prediction, Betting Tips & Booking Code (Jun 5) 22Bet news, fecha de acceso: junio 3, 2026,
+https://news.22bet.com/predictions/czech-republic-vs-guatemala-prediction-bookin
+g-code-05-06-2026/
+
+72.​Czech Republic vs Kosovo 2-1: Ladra and Hložek seal Prague win - Karlobag.eu,
+
+fecha de acceso: junio 3, 2026,
+https://karlobag.eu/en/sports/czech-republic-vs-kosovo-2-1-in-prague-ladra-and-hl
+ozek-goals-in-final-home-worl-1ltoh/
+73.​Bafana Bafana face uphill battle in tough group at 2026 Fifa World Cup - Daily
+Maverick, fecha de acceso: junio 3, 2026,
+https://www.dailymaverick.co.za/article/2026-06-01-bafana-bafana-face-uphill-battl
+e-in-tough-group-at-2026-fifa-world-cup/
+74.​Total Corners Per Game Over 9.5 Stats, fecha de acceso: junio 3, 2026,
+https://www.statschecker.com/stats/corners-per-game/over-9-5-stats
+75.​1. Liga 2025/2026 top rated teams, goals per match, shots on target and other
+stats - FotMob, fecha de acceso: junio 3, 2026,
+https://www.fotmob.com/leagues/122/stats/1-liga/teams
+76.​Czech 1. Liga Corner Stats | The Stats Don't Lie - TheStatsDontLie, fecha de
+acceso: junio 3, 2026,
+https://www.thestatsdontlie.com/football/europe/czech-republic/1-liga/corners/
+77.​World Cup - Ladbrokes - Stats Centre, fecha de acceso: junio 3, 2026,
+https://ladbrokes.touch-line.com/H2H.asp?lang=&maid=-81072
+
+

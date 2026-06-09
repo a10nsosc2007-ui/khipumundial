@@ -1,0 +1,418 @@
+{
+  "Abdulrahman Al Jassim": {
+    "nacionalidad": "Catar",
+    "estilo_arbitraje": "Árbitro mundialista (dirigió el 3er puesto en 2022). Estricto, tiende a pitar roces menores.",
+    "relacion_var": "Se apoya bastante en la tecnología para decisiones de área.",
+    "psicologia_presion": "Acostumbrado a la élite asiática y mundial, aunque a veces permite demasiadas protestas antes de sacar tarjeta.",
+    "yellows_per_game": 3.73,
+    "reds_per_game": 0.22
+  },
+  "Abongile Tom": {
+    "nacionalidad": "Sudáfrica",
+    "estilo_arbitraje": "Información insuficiente para un perfil analítico preciso y sin especular.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 4.09,
+    "reds_per_game": 0.25
+  },
+  "Adham Makhadmeh": {
+    "nacionalidad": "Jordania",
+    "estilo_arbitraje": "Información insuficiente para un perfil analítico preciso.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 6.0,
+    "reds_per_game": 0.15
+  },
+  "Alejandro Hernández": {
+    "nacionalidad": "España",
+    "estilo_arbitraje": "Árbitro de LaLiga. Tiende a ser riguroso y protagonista. Corta bastante el juego.",
+    "relacion_var": "Historial polémico en España con el uso del VAR, a veces le cuesta rectificar sus decisiones iniciales.",
+    "psicologia_presion": "Acostumbrado a la alta presión mediática de los clásicos españoles.",
+    "yellows_per_game": 5.32,
+    "reds_per_game": 0.26
+  },
+  "Alireza Faghani": {
+    "nacionalidad": "Australia (Irán)",
+    "estilo_arbitraje": "Uno de los mejores de Asia. Muy autoritario, deja fluir el juego y permite el contacto físico.",
+    "relacion_var": "Rara vez va al monitor, confía plenamente en su criterio en vivo.",
+    "psicologia_presion": "Inmune a la presión. Personalidad de hierro frente a grandes estrellas.",
+    "yellows_per_game": 4.09,
+    "reds_per_game": 0.13
+  },
+  "Amin Mohamed": {
+    "nacionalidad": "Egipto",
+    "estilo_arbitraje": "Información insuficiente para un perfil analítico puro.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 2.79,
+    "reds_per_game": 0.29
+  },
+  "Andrés Rojas": {
+    "nacionalidad": "Colombia",
+    "estilo_arbitraje": "Estilo sudamericano típico: dialogador, aguanta las tarjetas en los primeros minutos.",
+    "relacion_var": "Tarda en tomar decisiones si el VAR lo llama; revisiones largas.",
+    "psicologia_presion": "Suele manejar bien el ambiente tenso de la Copa Libertadores.",
+    "yellows_per_game": 5.72,
+    "reds_per_game": 0.36
+  },
+  "Anthony Taylor": {
+    "nacionalidad": "Inglaterra",
+    "estilo_arbitraje": "Estilo Premier League total. Alto umbral de falta, deja jugar muchísimo y evita frenar el ritmo.",
+    "relacion_var": "Uso rápido y eficiente, pero prefiere no pitar faltas leves o 'penalitos' vía monitor.",
+    "psicologia_presion": "Soporta ambientes muy hostiles, no se deja influenciar por protestas.",
+    "yellows_per_game": 3.79,
+    "reds_per_game": 0.18
+  },
+  "Campbell-Kirk Kawana-Waugh": {
+    "nacionalidad": "Nueva Zelanda",
+    "estilo_arbitraje": "Información insuficiente para un perfil analítico puro.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 4.0,
+    "reds_per_game": 0.15
+  },
+  "César Ramos": {
+    "nacionalidad": "México",
+    "estilo_arbitraje": "Riguroso desde el minuto uno. Corta mucho el juego para mantener el control. Tarjeta fácil al inicio.",
+    "relacion_var": "Dependiente del VAR para jugadas complejas en el área.",
+    "psicologia_presion": "Suele tener arbitrajes polémicos con equipos europeos. A veces cede un poco ante reclamos.",
+    "yellows_per_game": 4.38,
+    "reds_per_game": 0.42
+  },
+  "Clément Turpin": {
+    "nacionalidad": "Francia",
+    "estilo_arbitraje": "Elegante y muy posicional. No pita cualquier roce, pero es inflexible con el reglamento táctico.",
+    "relacion_var": "Excelente. Rápido y conciso con las revisiones.",
+    "psicologia_presion": "Muy frío, rostro inexpresivo. No le tiembla el pulso en fases finales.",
+    "yellows_per_game": 3.39,
+    "reds_per_game": 0.27
+  },
+  "Cristian Garay": {
+    "nacionalidad": "Chile",
+    "estilo_arbitraje": "Intenta darle fluidez al partido, sanciona rápido las simulaciones.",
+    "relacion_var": "Interacciones promedio dentro del estándar de CONMEBOL.",
+    "psicologia_presion": "Ha ganado firmeza en partidos de eliminatorias sudamericanas.",
+    "yellows_per_game": 4.4,
+    "reds_per_game": 0.37
+  },
+  "Dahane Beida": {
+    "nacionalidad": "Mauritania",
+    "estilo_arbitraje": "Información detallada insuficiente para no especular.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 3.89,
+    "reds_per_game": 0.28
+  },
+  "Danny Makkelie": {
+    "nacionalidad": "Países Bajos",
+    "estilo_arbitraje": "Muy estricto y de autoridad marcada. Castiga duramente las quejas verbales.",
+    "relacion_var": "Le cuesta aceptar correcciones en faltas de apreciación.",
+    "psicologia_presion": "Ego alto, confrontacional si los jugadores le faltan al respeto.",
+    "yellows_per_game": 3.41,
+    "reds_per_game": 0.2
+  },
+  "Darío Herrera": {
+    "nacionalidad": "Argentina",
+    "estilo_arbitraje": "Efusivo, gesticula mucho. Evita sacar tarjetas en el primer tiempo usando advertencias verbales.",
+    "relacion_var": "Suele apoyarse bastante en el VAR en el fútbol sudamericano.",
+    "psicologia_presion": "Acostumbrado a los Superclásicos en Argentina; el ruido externo no lo descoloca.",
+    "yellows_per_game": 5.44,
+    "reds_per_game": 0.38
+  },
+  "Drew Fischer": {
+    "nacionalidad": "Canadá",
+    "estilo_arbitraje": "Técnico y apegado al reglamento puro (estilo MLS).",
+    "relacion_var": "Especialista histórico en VAR antes de ser central fijo, confía a ciegas en la pantalla.",
+    "psicologia_presion": "Neutral, no se involucra emocionalmente en el juego.",
+    "yellows_per_game": 3.49,
+    "reds_per_game": 0.17
+  },
+  "Espen Eskas": {
+    "nacionalidad": "Noruega",
+    "estilo_arbitraje": "Árbitro de proyección en UEFA. Fomenta el ritmo alto y sanciona poco.",
+    "relacion_var": "Buena comunicación técnica, revisiones cortas.",
+    "psicologia_presion": "Tranquilo, propio del perfil nórdico.",
+    "yellows_per_game": 3.44,
+    "reds_per_game": 0.12
+  },
+  "Facundo Tello": {
+    "nacionalidad": "Argentina",
+    "estilo_arbitraje": "De los mejores de Sudamérica hoy. Deja jugar mucho y tiene un límite alto para la falta.",
+    "relacion_var": "Lo utiliza correctamente, aunque en Sudamérica las revisiones suelen ser largas.",
+    "psicologia_presion": "Excelente manejo de jugadores 'cancheros'. Muy sereno.",
+    "yellows_per_game": 5.39,
+    "reds_per_game": 0.38
+  },
+  "Felix Zwayer": {
+    "nacionalidad": "Alemania",
+    "estilo_arbitraje": "Atlético y de decisiones rápidas. Corta contragolpes con amarillas tácticas sin dudar.",
+    "relacion_var": "Totalmente integrado al protocolo alemán: rápido y eficiente.",
+    "psicologia_presion": "Ha lidiado con mucha presión mediática por su pasado; es bastante hermético en el campo.",
+    "yellows_per_game": 4.59,
+    "reds_per_game": 0.2
+  },
+  "François Letexier": {
+    "nacionalidad": "Francia",
+    "estilo_arbitraje": "Firme, consistente y muy apegado al reglamento en infracciones de área.",
+    "relacion_var": "Puntual y certero al revisar pantallas.",
+    "psicologia_presion": "Poco a poco se ha consolidado en las finales de UEFA; buen temple.",
+    "yellows_per_game": 4.02,
+    "reds_per_game": 0.29
+  },
+  "Glenn Nyberg": {
+    "nacionalidad": "Suecia",
+    "estilo_arbitraje": "Permite el contacto físico europeo. Dialoga pero no permite que lo rodeen.",
+    "relacion_var": "Delega la revisión minuciosa al equipo de video, interviene poco.",
+    "psicologia_presion": "Ha subido de categoría rápido, maneja bien escenarios de Champions League.",
+    "yellows_per_game": 3.29,
+    "reds_per_game": 0.12
+  },
+  "Gustavo Tejera": {
+    "nacionalidad": "Uruguay",
+    "estilo_arbitraje": "Muy permisivo con el juego brusco. Tolerancia alta a la fricción.",
+    "relacion_var": "Trata de resolver todo en el campo, el VAR es su último recurso.",
+    "psicologia_presion": "No le pesan los partidos 'calientes'.",
+    "yellows_per_game": 5.03,
+    "reds_per_game": 0.28
+  },
+  "Héctor Said Martínez": {
+    "nacionalidad": "Honduras",
+    "estilo_arbitraje": "Muy activo, sigue de cerca las jugadas. Tiende a pitar roces que en otras ligas se obvian.",
+    "relacion_var": "Revisiones minuciosas, a veces excesivas.",
+    "psicologia_presion": "A veces intenta sobre-imponer su autoridad si los jugadores le reclaman mucho.",
+    "yellows_per_game": 4.2,
+    "reds_per_game": 0.3
+  },
+  "Ilgiz Tantashev": {
+    "nacionalidad": "Uzbekistán",
+    "estilo_arbitraje": "Información detallada insuficiente para no especular.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 3.91,
+    "reds_per_game": 0.28
+  },
+  "Ismail Elfath": {
+    "nacionalidad": "Estados Unidos",
+    "estilo_arbitraje": "Muy comunicativo, sonriente. Maneja los partidos gestionando egos, saca pocas tarjetas rojas.",
+    "relacion_var": "Abierto a las correcciones. Muy pro-tecnología.",
+    "psicologia_presion": "Excelente. No se intimida y su estilo desactiva la agresividad de los jugadores.",
+    "yellows_per_game": 3.85,
+    "reds_per_game": 0.26
+  },
+  "Istvan Kovacs": {
+    "nacionalidad": "Rumania",
+    "estilo_arbitraje": "Gatillo fácil. Arbitraje punitivo, corta muchísimo el juego con cualquier roce.",
+    "relacion_var": "Acepta ir al monitor sin problema, pero impone su criterio de contacto.",
+    "psicologia_presion": "Rostro duro, le gusta que se note que él manda en la cancha.",
+    "yellows_per_game": 5.32,
+    "reds_per_game": 0.3
+  },
+  "Ivan Barton": {
+    "nacionalidad": "El Salvador",
+    "estilo_arbitraje": "El mejor árbitro actual de CONCACAF. Gran lector de juego, no abusa de la tarjeta.",
+    "relacion_var": "Decide muy rápido en las pantallas.",
+    "psicologia_presion": "Ha demostrado tener un temple de acero frente a selecciones top en Mundiales.",
+    "yellows_per_game": 4.81,
+    "reds_per_game": 0.34
+  },
+  "Jalal Jayed": {
+    "nacionalidad": "Marruecos",
+    "estilo_arbitraje": "Información insuficiente para perfil analítico exacto.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 4.3,
+    "reds_per_game": 0.2
+  },
+  "Jesús Valenzuela": {
+    "nacionalidad": "Venezuela",
+    "estilo_arbitraje": "Muy dinámico, deja fluir. Frena poco el partido y detesta las simulaciones.",
+    "relacion_var": "Intervención promedio, confía más en su línea visual.",
+    "psicologia_presion": "Totalmente asentado en la élite sudamericana, no le pesa el escenario.",
+    "yellows_per_game": 4.88,
+    "reds_per_game": 0.26
+  },
+  "João Pinheiro": {
+    "nacionalidad": "Portugal",
+    "estilo_arbitraje": "Meticuloso, de faltas tácticas. Protege mucho a los atacantes en Portugal.",
+    "relacion_var": "Suele revisar detenidamente las expulsiones directas.",
+    "psicologia_presion": "Mantiene un perfil bajo, muy inexpresivo ante las protestas.",
+    "yellows_per_game": 4.72,
+    "reds_per_game": 0.2
+  },
+  "Juan Calderón": {
+    "nacionalidad": "Costa Rica",
+    "estilo_arbitraje": "Información insuficiente para un perfil analítico puro sin inventar.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 3.28,
+    "reds_per_game": 0.28
+  },
+  "Juan Gabriel Benítez": {
+    "nacionalidad": "Paraguay",
+    "estilo_arbitraje": "Árbitro físico, aguanta el contacto fuerte sin pitar. Muy tradicional del fútbol paraguayo.",
+    "relacion_var": "Llega a demorar en las revisiones de VAR.",
+    "psicologia_presion": "Carácter fuerte y de pocas palabras.",
+    "yellows_per_game": 4.65,
+    "reds_per_game": 0.32
+  },
+  "Katia García": {
+    "nacionalidad": "México",
+    "estilo_arbitraje": "Alta rigurosidad técnica. Inflexible con el reglamento, sobre todo en áreas.",
+    "relacion_var": "Uso preciso y eficiente del video.",
+    "psicologia_presion": "Muy segura de sí misma, se impone rápidamente en partidos masculinos.",
+    "yellows_per_game": 3.9,
+    "reds_per_game": 0.1
+  },
+  "Kevin Ortega": {
+    "nacionalidad": "Perú",
+    "estilo_arbitraje": "Riguroso y a veces compensatorio. Pone tarjetas rápido para intentar calmar el juego.",
+    "relacion_var": "Revisiones exhaustivas que pausan mucho el partido.",
+    "psicologia_presion": "Suele tener roces fuertes con capitanes que protestan airadamente.",
+    "yellows_per_game": 5.52,
+    "reds_per_game": 0.38
+  },
+  "Khalid Al Turais": {
+    "nacionalidad": "Arabia Saudita",
+    "estilo_arbitraje": "Información detallada insuficiente.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 4.67,
+    "reds_per_game": 0.22
+  },
+  "Ma Ning": {
+    "nacionalidad": "China",
+    "estilo_arbitraje": "Conocido por ser extremadamente estricto en Asia. Saca tarjetas rojas directas sin dudar.",
+    "relacion_var": "Prefiere aplicar su rigor y rara vez cambia una expulsión tras ver el monitor.",
+    "psicologia_presion": "Altamente autoritario, no admite reclamos grupales.",
+    "yellows_per_game": 4.35,
+    "reds_per_game": 0.34
+  },
+  "Maurizio Mariani": {
+    "nacionalidad": "Italia",
+    "estilo_arbitraje": "Escuela italiana: permite forcejeos físicos, pero amonesta ferozmente el engaño al árbitro.",
+    "relacion_var": "Acude al monitor como última instancia.",
+    "psicologia_presion": "Canchero, maneja bien a los jugadores polémicos.",
+    "yellows_per_game": 4.65,
+    "reds_per_game": 0.28
+  },
+  "Michael Oliver": {
+    "nacionalidad": "Inglaterra",
+    "estilo_arbitraje": "Permite un nivel altísimo de fricción física. Rara vez pita contactos menores en el área.",
+    "relacion_var": "Rápido y asertivo con el VAR, no pierde tiempo.",
+    "psicologia_presion": "Nervios de acero. Totalmente inmune a gradas locales y estrellatos.",
+    "yellows_per_game": 3.5,
+    "reds_per_game": 0.14
+  },
+  "Mustapha Ghorbal": {
+    "nacionalidad": "Argelia",
+    "estilo_arbitraje": "Gran estado físico, siempre muy cerca de la jugada. Arbitraje dinámico.",
+    "relacion_var": "Eficaz, se comunica mucho con sus asistentes y el video.",
+    "psicologia_presion": "Mantiene el mismo rigor sin importar el peso del equipo.",
+    "yellows_per_game": 3.5,
+    "reds_per_game": 0.13
+  },
+  "Omar Abdulkadir Artan": {
+    "nacionalidad": "Somalia",
+    "estilo_arbitraje": "Información insuficiente para análisis estadístico puro.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 2.7,
+    "reds_per_game": 0.1
+  },
+  "Omar Al Ali": {
+    "nacionalidad": "Emiratos Árabes Unidos",
+    "estilo_arbitraje": "Información insuficiente para análisis estadístico puro.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 3.25,
+    "reds_per_game": 0.24
+  },
+  "Oshane Nation": {
+    "nacionalidad": "Jamaica",
+    "estilo_arbitraje": "Permisivo y atlético. En CONCACAF se caracteriza por dejar pasar faltas leves.",
+    "relacion_var": "Intervenciones escasas.",
+    "psicologia_presion": "Despreocupado ante los reclamos.",
+    "yellows_per_game": 3.82,
+    "reds_per_game": 0.08
+  },
+  "Pierre Atcho": {
+    "nacionalidad": "Gabón",
+    "estilo_arbitraje": "Información insuficiente para análisis detallado.",
+    "relacion_var": "Información insuficiente.",
+    "psicologia_presion": "Información insuficiente.",
+    "yellows_per_game": 3.91,
+    "reds_per_game": 0.18
+  },
+  "Ramon Abatti": {
+    "nacionalidad": "Brasil",
+    "estilo_arbitraje": "Joven proyección de Brasil. Intenta dejar fluir pero se vuelve tarjetero si el partido se le va de las manos.",
+    "relacion_var": "Muy analítico en las pantallas.",
+    "psicologia_presion": "A veces le falta imposición ante capitanes muy experimentados.",
+    "yellows_per_game": 4.72,
+    "reds_per_game": 0.31
+  },
+  "Raphael Claus": {
+    "nacionalidad": "Brasil",
+    "estilo_arbitraje": "Tolerancia extrema al contacto. Difícilmente pita un penal por roces leves.",
+    "relacion_var": "Ignora recomendaciones de VAR si está convencido de su percepción en cancha.",
+    "psicologia_presion": "Frío y hermético. Imperturbable ante la presión sudamericana.",
+    "yellows_per_game": 4.34,
+    "reds_per_game": 0.22
+  },
+  "Sandro Schaerer": {
+    "nacionalidad": "Suiza",
+    "estilo_arbitraje": "Diplomático y elegante. Amonesta casi con una sonrisa, pero es muy firme.",
+    "relacion_var": "Totalmente eficiente con los protocolos UEFA.",
+    "psicologia_presion": "Neutralidad absoluta, las protestas le resbalan.",
+    "yellows_per_game": 4.52,
+    "reds_per_game": 0.24
+  },
+  "Slavko Vincic": {
+    "nacionalidad": "Eslovenia",
+    "estilo_arbitraje": "Conservador y táctico. Castiga fuertemente las interrupciones en contragolpes.",
+    "relacion_var": "Uso medido y rápido.",
+    "psicologia_presion": "Árbitro de finales europeas; estándar altísimo en partidos pesados.",
+    "yellows_per_game": 4.18,
+    "reds_per_game": 0.2
+  },
+  "Szymon Marciniak": {
+    "nacionalidad": "Polonia",
+    "estilo_arbitraje": "Dialogador pero autoritario. Permite el contacto físico intenso (juegue-juegue), pero no tolera protestas.",
+    "relacion_var": "Confía mucho en su equipo VAR, pero se mantiene firme en decisiones de apreciación aunque vaya a la pantalla.",
+    "psicologia_presion": "Inmune a la presión. Árbitro de finales. No se deja intimidar por estadios llenos ni estrellas.",
+    "yellows_per_game": 4.27,
+    "reds_per_game": 0.2
+  },
+  "Tori Penso": {
+    "nacionalidad": "Estados Unidos",
+    "estilo_arbitraje": "Extremadamente dinámica. Exige respeto y amonesta sin dudar a quienes le reclaman aireadamente.",
+    "relacion_var": "Decide rapidísimo frente a las pantallas.",
+    "psicologia_presion": "Manejo escénico extraordinario, se impone con una personalidad muy fuerte.",
+    "yellows_per_game": 3.68,
+    "reds_per_game": 0.11
+  },
+  "Wilton Sampaio": {
+    "nacionalidad": "Brasil",
+    "estilo_arbitraje": "Corta el juego constantemente. Poca tolerancia al contacto físico, señala muchas faltas.",
+    "relacion_var": "Suele tener revisiones de VAR largas y repetitivas.",
+    "psicologia_presion": "A menudo los partidos se le vuelven caóticos por su exceso de interrupciones.",
+    "yellows_per_game": 5.11,
+    "reds_per_game": 0.24
+  },
+  "Yael Falcón Pérez": {
+    "nacionalidad": "Argentina",
+    "estilo_arbitraje": "Nueva escuela argentina. Prioriza el tiempo neto de juego. Solo corta si es inevitable.",
+    "relacion_var": "Sinergia buena con la cabina, acepta correcciones rápido.",
+    "psicologia_presion": "Muy sereno, en crecimiento constante para establecerse en la élite.",
+    "yellows_per_game": 5.49,
+    "reds_per_game": 0.26
+  },
+  "Yusuke Araki": {
+    "nacionalidad": "Japón",
+    "estilo_arbitraje": "Literalidad reglamentaria. Si el reglamento lo marca como falta, lo pita, sin aplicar mucho 'sentido común' o contexto del partido.",
+    "relacion_var": "Revisiones lentas y muy detallistas.",
+    "psicologia_presion": "Inquebrantable emocionalmente.",
+    "yellows_per_game": 2.91,
+    "reds_per_game": 0.15
+  },
+}
