@@ -47,41 +47,41 @@
     },
     "QATAR": {
       "name": "QATAR",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
       "jerseyColor": "#8A1538",
       "numberColor": "#FFFFFF",
       "shieldColor": "#8A1538"
     },
     "SUIZA": {
       "name": "SUIZA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Civil_Ensign_of_Switzerland_%28Pantone%29.svg/250px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
       "jerseyColor": "#FF0000",
       "numberColor": "#FFFFFF",
       "shieldColor": "#FF0000"
     },
     "BRASIL": {
       "name": "BRASIL",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png",
       "jerseyColor": "#FFDF00",
       "numberColor": "#009B3A",
       "shieldColor": "#009B3A"
     },
     "MARRUECOS": {
       "name": "MARRUECOS",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/330px-Flag_of_Morocco.svg.png",
       "jerseyColor": "#C1272D",
       "numberColor": "#006233",
       "shieldColor": "#C1272D"
     },
     "HAITÍ": {
       "name": "HAITÍ",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
       "jerseyColor": "#00205B",
       "numberColor": "#FFFFFF",
       "shieldColor": "#D21034"
     },
     "ESCOCIA": {
-      "name": "ESCOCIA",
+      "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/3840px-Flag_of_Scotland.svg.png",
       "logoUrl": "URL_ESCUDO_AQUI",
       "jerseyColor": "#001489",
       "numberColor": "#FFFFFF",
@@ -89,252 +89,252 @@
     },
     "EE.UU.": {
       "name": "EE.UU.",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#002868",
       "shieldColor": "#002868"
     },
     "PARAGUAY": {
       "name": "PARAGUAY",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/3840px-Flag_of_Paraguay.svg.png",
       "jerseyColor": "#D52B1E",
       "numberColor": "#FFFFFF",
       "shieldColor": "#0038A8"
     },
     "AUSTRALIA": {
       "name": "AUSTRALIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
       "jerseyColor": "#FFD700",
       "numberColor": "#006400",
       "shieldColor": "#FFD700"
     },
     "TURQUÍA": {
       "name": "TURQUÍA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
       "jerseyColor": "#E30A17",
       "numberColor": "#FFFFFF",
       "shieldColor": "#E30A17"
     },
     "ALEMANIA": {
       "name": "ALEMANIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/330px-Flag_of_Germany.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#000000",
       "shieldColor": "#DD0000"
     },
     "CURAZAO": {
       "name": "CURAZAO",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/1280px-Flag_of_Cura%C3%A7ao.svg.png",
       "jerseyColor": "#002B7F",
       "numberColor": "#F9E814",
       "shieldColor": "#002B7F"
     },
     "COSTA DE MARFIL": {
       "name": "COSTA DE MARFIL",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/330px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
       "jerseyColor": "#FF8200",
       "numberColor": "#FFFFFF",
       "shieldColor": "#FF8200"
     },
     "ECUADOR": {
       "name": "ECUADOR",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcU7fJ_TyCE9Io-ZnTsSzR4Kn8hfGiUfJuSQ&s",
       "jerseyColor": "#FFD100",
       "numberColor": "#00205B",
       "shieldColor": "#FFD100"
     },
     "PAÍSES BAJOS": {
       "name": "PAÍSES BAJOS",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
       "jerseyColor": "#F36C21",
       "numberColor": "#FFFFFF",
       "shieldColor": "#F36C21"
     },
     "JAPÓN": {
       "name": "JAPÓN",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/330px-Flag_of_Japan.svg.png",
       "jerseyColor": "#000555",
       "numberColor": "#FFFFFF",
       "shieldColor": "#000555"
     },
     "SUECIA": {
       "name": "SUECIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
       "jerseyColor": "#FFC90E",
       "numberColor": "#004B87",
       "shieldColor": "#004B87"
     },
     "TÚNEZ": {
       "name": "TÚNEZ",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#E70013",
       "shieldColor": "#E70013"
     },
     "BÉLGICA": {
       "name": "BÉLGICA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1280px-Flag_of_Belgium.svg.png",
       "jerseyColor": "#E30613",
       "numberColor": "#FFD700",
       "shieldColor": "#E30613"
     },
     "EGIPTO": {
       "name": "EGIPTO",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
       "jerseyColor": "#CE1126",
       "numberColor": "#FFFFFF",
       "shieldColor": "#CE1126"
     },
     "IRÁN": {
       "name": "IRÁN",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/330px-Flag_of_Iran.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#DA0000",
       "shieldColor": "#239F40"
     },
     "NUEVA ZELANDA": {
       "name": "NUEVA ZELANDA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#000000",
       "shieldColor": "#000000"
     },
     "ESPAÑA": {
       "name": "ESPAÑA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
       "jerseyColor": "#AA151B",
       "numberColor": "#F1BF00",
       "shieldColor": "#AA151B"
     },
     "CABO VERDE": {
       "name": "CABO VERDE",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/330px-Flag_of_Cape_Verde.svg.png",
       "jerseyColor": "#003893",
       "numberColor": "#FFFFFF",
       "shieldColor": "#003893"
     },
     "ARABIA SAUDITA": {
       "name": "ARABIA SAUDITA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
       "jerseyColor": "#006C35",
       "numberColor": "#FFFFFF",
       "shieldColor": "#006C35"
     },
     "URUGUAY": {
       "name": "URUGUAY",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
       "jerseyColor": "#5CB8E4",
       "numberColor": "#000000",
       "shieldColor": "#5CB8E4"
     },
     "FRANCIA": {
       "name": "FRANCIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
       "jerseyColor": "#002395",
       "numberColor": "#FFFFFF",
       "shieldColor": "#002395"
     },
     "SENEGAL": {
       "name": "SENEGAL",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#00853F",
       "shieldColor": "#00853F"
     },
     "IRAK": {
       "name": "IRAK",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/330px-Flag_of_Iraq.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "jerseyColor": "#007A3D",
       "numberColor": "#FFFFFF",
       "shieldColor": "#007A3D"
     },
     "NORUEGA": {
       "name": "NORUEGA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
       "jerseyColor": "#BA0C2F",
       "numberColor": "#FFFFFF",
       "shieldColor": "#00205B"
     },
     "ARGENTINA": {
       "name": "ARGENTINA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png",
       "jerseyColor": "#75AADB",
       "numberColor": "#FFFFFF",
       "shieldColor": "#75AADB"
     },
     "ARGELIA": {
       "name": "ARGELIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#006C35",
       "shieldColor": "#006C35"
     },
     "AUSTRIA": {
       "name": "AUSTRIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png",
       "jerseyColor": "#ED2939",
       "numberColor": "#FFFFFF",
       "shieldColor": "#ED2939"
     },
     "JORDANIA": {
       "name": "JORDANIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/330px-Flag_of_Jordan.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#CE1126",
       "shieldColor": "#CE1126"
     },
     "PORTUGAL": {
       "name": "PORTUGAL",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Portugal_%28official%29.svg",
       "jerseyColor": "#FF0000",
       "numberColor": "#F4A900",
       "shieldColor": "#006600"
     },
     "RD CONGO": {
       "name": "RD CONGO",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/250px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
       "jerseyColor": "#007FFF",
       "numberColor": "#F7D116",
       "shieldColor": "#CE1021"
     },
     "UZBEKISTÁN": {
       "name": "UZBEKISTÁN",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/330px-Flag_of_Uzbekistan.svg.png",
       "jerseyColor": "#0099B5",
       "numberColor": "#FFFFFF",
       "shieldColor": "#0099B5"
     },
     "COLOMBIA": {
       "name": "COLOMBIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4RnHc-DARvOT65ScstoAgSy-wZ_wvA5g5Qg&s",
       "jerseyColor": "#FCD116",
       "numberColor": "#003893",
       "shieldColor": "#FCD116"
     },
     "INGLATERRA": {
       "name": "INGLATERRA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#CE1126",
       "shieldColor": "#00247D"
     },
     "CROACIA": {
       "name": "CROACIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#FF0000",
       "shieldColor": "#00205B"
     },
     "GHANA": {
       "name": "GHANA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/330px-Flag_of_Ghana.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#000000",
       "shieldColor": "#CE1126"
     },
     "PANAMÁ": {
       "name": "PANAMÁ",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCbAGSPUESWwMQiQBYMU5F8GRTBCWw8xydoQ&s",
       "jerseyColor": "#DA291C",
       "numberColor": "#FFFFFF",
       "shieldColor": "#00205B"
