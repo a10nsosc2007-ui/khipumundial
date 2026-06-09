@@ -5,6 +5,7 @@
   "teams": {
     "MÉXICO": {
       "name": "MÉXICO",
+      "manager": "Javier Aguirre",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/330px-Flag_of_Mexico.svg.png",
       "jerseyColor": "#006847",
       "numberColor": "#FFFFFF",
@@ -12,6 +13,7 @@
     },
     "SUDÁFRICA": {
       "name": "SUDÁFRICA",
+      "manager": "Hugo Broos",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/330px-Flag_of_South_Africa.svg.png",
       "jerseyColor": "#FFB81C",
       "numberColor": "#007749",
@@ -19,6 +21,7 @@
     },
     "COREA DEL SUR": {
       "name": "COREA DEL SUR",
+      "manager": "Hong Myung-bo",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/330px-Flag_of_South_Korea.svg.png",
       "jerseyColor": "#C60C30",
       "numberColor": "#FFFFFF",
@@ -26,6 +29,7 @@
     },
     "CHEQUIA": {
       "name": "CHEQUIA",
+      "manager": "Miroslav Koubek",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/3840px-Flag_of_the_Czech_Republic.svg.png",
       "jerseyColor": "#D7141A",
       "numberColor": "#FFFFFF",
@@ -33,6 +37,7 @@
     },
     "CANADÁ": {
       "name": "CANADÁ",
+      "manager": "Jesse Marsch",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
       "jerseyColor": "#FF0000",
       "numberColor": "#FFFFFF",
@@ -40,6 +45,7 @@
     },
     "BOSNIA": {
       "name": "BOSNIA",
+      "manager": "Sergej Barbarez",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
       "jerseyColor": "#002395",
       "numberColor": "#FFFFFF",
@@ -47,6 +53,7 @@
     },
     "QATAR": {
       "name": "QATAR",
+      "manager": "Julen Lopetegui",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
       "jerseyColor": "#8A1538",
       "numberColor": "#FFFFFF",
@@ -54,6 +61,7 @@
     },
     "SUIZA": {
       "name": "SUIZA",
+      "manager": "Murat Yakin",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Civil_Ensign_of_Switzerland_%28Pantone%29.svg/250px-Civil_Ensign_of_Switzerland_%28Pantone%29.svg.png",
       "jerseyColor": "#FF0000",
       "numberColor": "#FFFFFF",
@@ -61,6 +69,7 @@
     },
     "BRASIL": {
       "name": "BRASIL",
+      "manager": "Carlo Ancelotti",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png",
       "jerseyColor": "#FFDF00",
       "numberColor": "#009B3A",
@@ -68,6 +77,7 @@
     },
     "MARRUECOS": {
       "name": "MARRUECOS",
+      "manager": "Mohamed Ouahbi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/330px-Flag_of_Morocco.svg.png",
       "jerseyColor": "#C1272D",
       "numberColor": "#006233",
@@ -75,20 +85,23 @@
     },
     "HAITÍ": {
       "name": "HAITÍ",
+      "manager": "Sébastien Migné",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",
       "jerseyColor": "#00205B",
       "numberColor": "#FFFFFF",
       "shieldColor": "#D21034"
     },
     "ESCOCIA": {
-      "name": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "name": "ESCOCIA",
+      "manager": "Steve Clarke",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/330px-Flag_of_Scotland.svg.png",
       "jerseyColor": "#001489",
       "numberColor": "#FFFFFF",
       "shieldColor": "#001489"
     },
     "EE.UU.": {
       "name": "EE.UU.",
+      "manager": "Mauricio Pochettino",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#002868",
@@ -96,6 +109,7 @@
     },
     "PARAGUAY": {
       "name": "PARAGUAY",
+      "manager": "Gustavo Alfaro",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/3840px-Flag_of_Paraguay.svg.png",
       "jerseyColor": "#D52B1E",
       "numberColor": "#FFFFFF",
@@ -103,6 +117,7 @@
     },
     "AUSTRALIA": {
       "name": "AUSTRALIA",
+      "manager": "Tony Popovic",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
       "jerseyColor": "#FFD700",
       "numberColor": "#006400",
@@ -110,6 +125,7 @@
     },
     "TURQUÍA": {
       "name": "TURQUÍA",
+      "manager": "Vincenzo Montella",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1280px-Flag_of_Turkey.svg.png",
       "jerseyColor": "#E30A17",
       "numberColor": "#FFFFFF",
@@ -117,6 +133,7 @@
     },
     "ALEMANIA": {
       "name": "ALEMANIA",
+      "manager": "Julian Nagelsmann",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/330px-Flag_of_Germany.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#000000",
@@ -124,6 +141,7 @@
     },
     "CURAZAO": {
       "name": "CURAZAO",
+      "manager": "Dick Advocaat",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/1280px-Flag_of_Cura%C3%A7ao.svg.png",
       "jerseyColor": "#002B7F",
       "numberColor": "#F9E814",
@@ -131,6 +149,7 @@
     },
     "COSTA DE MARFIL": {
       "name": "COSTA DE MARFIL",
+      "manager": "Emérse Fae",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/330px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
       "jerseyColor": "#FF8200",
       "numberColor": "#FFFFFF",
@@ -138,6 +157,7 @@
     },
     "ECUADOR": {
       "name": "ECUADOR",
+      "manager": "Sebastián Beccacece",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcU7fJ_TyCE9Io-ZnTsSzR4Kn8hfGiUfJuSQ&s",
       "jerseyColor": "#FFD100",
       "numberColor": "#00205B",
@@ -145,6 +165,7 @@
     },
     "PAÍSES BAJOS": {
       "name": "PAÍSES BAJOS",
+      "manager": "Ronald Koeman",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
       "jerseyColor": "#F36C21",
       "numberColor": "#FFFFFF",
@@ -152,6 +173,7 @@
     },
     "JAPÓN": {
       "name": "JAPÓN",
+      "manager": "Hajime Moriyasu",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/330px-Flag_of_Japan.svg.png",
       "jerseyColor": "#000555",
       "numberColor": "#FFFFFF",
@@ -159,6 +181,7 @@
     },
     "SUECIA": {
       "name": "SUECIA",
+      "manager": "Jon Dahl Tomasson",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
       "jerseyColor": "#FFC90E",
       "numberColor": "#004B87",
@@ -166,6 +189,7 @@
     },
     "TÚNEZ": {
       "name": "TÚNEZ",
+      "manager": "Sabri Lamouchi",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#E70013",
@@ -173,6 +197,7 @@
     },
     "BÉLGICA": {
       "name": "BÉLGICA",
+      "manager": "Rudi García",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1280px-Flag_of_Belgium.svg.png",
       "jerseyColor": "#E30613",
       "numberColor": "#FFD700",
@@ -180,6 +205,7 @@
     },
     "EGIPTO": {
       "name": "EGIPTO",
+      "manager": "Hossam Hassan",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
       "jerseyColor": "#CE1126",
       "numberColor": "#FFFFFF",
@@ -187,6 +213,7 @@
     },
     "IRÁN": {
       "name": "IRÁN",
+      "manager": "Amir Ghalenoei",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/330px-Flag_of_Iran.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#DA0000",
@@ -194,6 +221,7 @@
     },
     "NUEVA ZELANDA": {
       "name": "NUEVA ZELANDA",
+      "manager": "Darren Bazeley",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/250px-Flag_of_New_Zealand.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#000000",
@@ -201,6 +229,7 @@
     },
     "ESPAÑA": {
       "name": "ESPAÑA",
+      "manager": "Luis de la Fuente",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
       "jerseyColor": "#AA151B",
       "numberColor": "#F1BF00",
@@ -208,6 +237,7 @@
     },
     "CABO VERDE": {
       "name": "CABO VERDE",
+      "manager": "Pedro Leitao Brito (Bubista)",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/330px-Flag_of_Cape_Verde.svg.png",
       "jerseyColor": "#003893",
       "numberColor": "#FFFFFF",
@@ -215,6 +245,7 @@
     },
     "ARABIA SAUDITA": {
       "name": "ARABIA SAUDITA",
+      "manager": "Georgios Donis",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
       "jerseyColor": "#006C35",
       "numberColor": "#FFFFFF",
@@ -222,6 +253,7 @@
     },
     "URUGUAY": {
       "name": "URUGUAY",
+      "manager": "Marcelo Bielsa",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
       "jerseyColor": "#5CB8E4",
       "numberColor": "#000000",
@@ -229,6 +261,7 @@
     },
     "FRANCIA": {
       "name": "FRANCIA",
+      "manager": "Didier Deschamps",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
       "jerseyColor": "#002395",
       "numberColor": "#FFFFFF",
@@ -236,6 +269,7 @@
     },
     "SENEGAL": {
       "name": "SENEGAL",
+      "manager": "Pape Thiaw",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#00853F",
@@ -243,6 +277,7 @@
     },
     "IRAK": {
       "name": "IRAK",
+      "manager": "Graham Arnold",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/330px-Flag_of_Iraq.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "jerseyColor": "#007A3D",
       "numberColor": "#FFFFFF",
@@ -250,6 +285,7 @@
     },
     "NORUEGA": {
       "name": "NORUEGA",
+      "manager": "Ståle Solbakken",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
       "jerseyColor": "#BA0C2F",
       "numberColor": "#FFFFFF",
@@ -257,6 +293,7 @@
     },
     "ARGENTINA": {
       "name": "ARGENTINA",
+      "manager": "Lionel Scaloni",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png",
       "jerseyColor": "#75AADB",
       "numberColor": "#FFFFFF",
@@ -264,6 +301,7 @@
     },
     "ARGELIA": {
       "name": "ARGELIA",
+      "manager": "Vladimir Petkovic",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#006C35",
@@ -271,6 +309,7 @@
     },
     "AUSTRIA": {
       "name": "AUSTRIA",
+      "manager": "Ralf Rangnick",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1280px-Flag_of_Austria.svg.png",
       "jerseyColor": "#ED2939",
       "numberColor": "#FFFFFF",
@@ -278,6 +317,7 @@
     },
     "JORDANIA": {
       "name": "JORDANIA",
+      "manager": "Jamal Sellami",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/330px-Flag_of_Jordan.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#CE1126",
@@ -285,6 +325,7 @@
     },
     "PORTUGAL": {
       "name": "PORTUGAL",
+      "manager": "Roberto Martinez",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Portugal_%28official%29.svg",
       "jerseyColor": "#FF0000",
       "numberColor": "#F4A900",
@@ -292,6 +333,7 @@
     },
     "RD CONGO": {
       "name": "RD CONGO",
+      "manager": "Sébastien Desabre",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/250px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
       "jerseyColor": "#007FFF",
       "numberColor": "#F7D116",
@@ -299,6 +341,7 @@
     },
     "UZBEKISTÁN": {
       "name": "UZBEKISTÁN",
+      "manager": "Fabio Cannavaro",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/330px-Flag_of_Uzbekistan.svg.png",
       "jerseyColor": "#0099B5",
       "numberColor": "#FFFFFF",
@@ -306,6 +349,7 @@
     },
     "COLOMBIA": {
       "name": "COLOMBIA",
+      "manager": "Nestor Lorenzo",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4RnHc-DARvOT65ScstoAgSy-wZ_wvA5g5Qg&s",
       "jerseyColor": "#FCD116",
       "numberColor": "#003893",
@@ -313,6 +357,7 @@
     },
     "INGLATERRA": {
       "name": "INGLATERRA",
+      "manager": "Thomas Tuchel",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#CE1126",
@@ -320,6 +365,7 @@
     },
     "CROACIA": {
       "name": "CROACIA",
+      "manager": "Zlatko Dalić",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#FF0000",
@@ -327,6 +373,7 @@
     },
     "GHANA": {
       "name": "GHANA",
+      "manager": "Carlos Queiroz",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/330px-Flag_of_Ghana.svg.png",
       "jerseyColor": "#FFFFFF",
       "numberColor": "#000000",
@@ -334,6 +381,7 @@
     },
     "PANAMÁ": {
       "name": "PANAMÁ",
+      "manager": "Thomas Christiansen",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCbAGSPUESWwMQiQBYMU5F8GRTBCWw8xydoQ&s",
       "jerseyColor": "#DA291C",
       "numberColor": "#FFFFFF",
