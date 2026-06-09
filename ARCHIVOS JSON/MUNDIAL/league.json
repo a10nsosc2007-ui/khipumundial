@@ -1,46 +1,46 @@
 {
-  "name": "Mundial 48",
+  "name": "Mundial 2026",
   "country": "Internacional",
-  "logo": "https://url-del-logo-oficial-del-mundial.png",
+  "logo": "https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg",
   "teams": {
     "MÉXICO": {
       "name": "MÉXICO",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/330px-Flag_of_Mexico.svg.png",
       "jerseyColor": "#006847",
       "numberColor": "#FFFFFF",
       "shieldColor": "#006847"
     },
     "SUDÁFRICA": {
       "name": "SUDÁFRICA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/330px-Flag_of_South_Africa.svg.png",
       "jerseyColor": "#FFB81C",
       "numberColor": "#007749",
       "shieldColor": "#007749"
     },
     "COREA DEL SUR": {
       "name": "COREA DEL SUR",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/330px-Flag_of_South_Korea.svg.png",
       "jerseyColor": "#C60C30",
       "numberColor": "#FFFFFF",
       "shieldColor": "#C60C30"
     },
     "CHEQUIA": {
       "name": "CHEQUIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/3840px-Flag_of_the_Czech_Republic.svg.png",
       "jerseyColor": "#D7141A",
       "numberColor": "#FFFFFF",
       "shieldColor": "#11457E"
     },
     "CANADÁ": {
       "name": "CANADÁ",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
       "jerseyColor": "#FF0000",
       "numberColor": "#FFFFFF",
       "shieldColor": "#FF0000"
     },
     "BOSNIA": {
       "name": "BOSNIA",
-      "logoUrl": "URL_ESCUDO_AQUI",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
       "jerseyColor": "#002395",
       "numberColor": "#FFFFFF",
       "shieldColor": "#002395"
