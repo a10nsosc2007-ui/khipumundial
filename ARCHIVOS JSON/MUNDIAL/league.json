@@ -1,7 +1,7 @@
 {
   "name": "Mundial 2026",
   "country": "Internacional",
-  "logo": "https://i.pinimg.com/736x/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_FIFA_World_Cup_emblem_%28without_trophy%29.svg/250px-2026_FIFA_World_Cup_emblem_%28without_trophy%29.svg.png",
   "teams": {
     "MÉXICO": {
       "name": "MÉXICO",
@@ -81,7 +81,7 @@
       "shieldColor": "#D21034"
     },
     "ESCOCIA": {
-      "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/3840px-Flag_of_Scotland.svg.png",
+      "name": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
       "logoUrl": "URL_ESCUDO_AQUI",
       "jerseyColor": "#001489",
       "numberColor": "#FFFFFF",
