@@ -1,0 +1,299 @@
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+      ╔══════════════════════════════════════════════════════════════════════════════════════════╗      
+      ║                CALENDARIO COMPLETO Y ESTRUCTURA DE LLAVES - FIFA WORLD CUP 2026          ║      
+      ╚══════════════════════════════════════════════════════════════════════════════════════════╝      
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+                  Edición Especial Completa: Desde Fase de Grupos hasta la Gran Final                   
+                                 Sedes: México, Estados Unidos y Canadá                                 
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                       📍 GUÍA DE ESTADIOS Y SEDES                                       
+────────────────────────────────────────────────────────────────────────────────────────────────────────
+  • Estadio Azteca (Ciudad de México, MEX)           • Estadio Akron (Guadalajara, MEX)                
+  • Estadio BBVA (Monterrey, MEX)                    • BMO Field (Toronto, CAN)                        
+  • BC Place (Vancouver, CAN)                        • Mercedes-Benz Stadium (Atlanta, USA)            
+  • Gillette Stadium (Boston, USA)                   • AT&T Stadium (Dallas, USA)                      
+  • NRG Stadium (Houston, USA)                       • Arrowhead Stadium (Kansas City, USA)            
+  • SoFi Stadium (Los Ángeles, USA)                  • Hard Rock Stadium (Miami, USA)                  
+  • MetLife Stadium (Nueva York / Nueva Jersey, USA) • Lincoln Financial Field (Filadelfia, USA)       
+  • Levi's Stadium (San Francisco Bay Area, USA)     • Lumen Field (Seattle, USA)                      
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                            ⚽ FASE DE GRUPOS                                            
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO A                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 11 de Junio  │ México vs. Sudáfrica            │ Estadio Azteca (CDMX)                 │       
+       │ 11 de Junio  │ Corea del Sur vs. Rep. Checa    │ Estadio Akron (Guadalajara)           │       
+       │ 18 de Junio  │ República Checa vs. Sudáfrica   │ Mercedes-Benz Stadium (Atlanta)       │       
+       │ 18 de Junio  │ México vs. Corea del Sur        │ Estadio Akron (Guadalajara)           │       
+       │ 24 de Junio  │ República Checa vs. México      │ Estadio Azteca (CDMX)                 │       
+       │ 24 de Junio  │ Sudáfrica vs. Corea del Sur     │ Estadio BBVA (Monterrey)              │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO B                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 12 de Junio  │ Canadá vs. Bosnia y Herzegovina │ BMO Field (Toronto)                   │       
+       │ 13 de Junio  │ Catar vs. Suiza                 │ Levi's Stadium (San Francisco)        │       
+       │ 18 de Junio  │ Suiza vs. Bosnia y Herzegovina  │ SoFi Stadium (Los Ángeles)            │       
+       │ 18 de Junio  │ Canadá vs. Catar                │ BC Place (Vancouver)                  │       
+       │ 24 de Junio  │ Suiza vs. Canadá                │ BC Place (Vancouver)                  │       
+       │ 24 de Junio  │ Bosnia vs. Catar                │ Lumen Field (Seattle)                 │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO C                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 13 de Junio  │ Brasil vs. Marruecos            │ MetLife Stadium (NY/NJ)               │       
+       │ 13 de Junio  │ Haití vs. Escocia               │ Gillette Stadium (Boston)             │       
+       │ 19 de Junio  │ Escocia vs. Marruecos           │ Gillette Stadium (Boston)             │       
+       │ 19 de Junio  │ Brasil vs. Haití                │ Lincoln Financial Field (Filadelfia)  │       
+       │ 24 de Junio  │ Brasil vs. Escocia              │ Hard Rock Stadium (Miami)             │       
+       │ 24 de Junio  │ Marruecos vs. Haití             │ Mercedes-Benz Stadium (Atlanta)       │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO D                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 12 de Junio  │ Estados Unidos vs. Paraguay     │ SoFi Stadium (Los Ángeles)            │       
+       │ 13 de Junio  │ Australia vs. Turquía           │ BC Place (Vancouver)                  │       
+       │ 19 de Junio  │ Estados Unidos vs. Australia    │ Lumen Field (Seattle)                 │       
+       │ 19 de Junio  │ Turquía vs. Paraguay            │ Levi's Stadium (San Francisco)        │       
+       │ 25 de Junio  │ Turquía vs. Estados Unidos      │ SoFi Stadium (Los Ángeles)            │       
+       │ 25 de Junio  │ Paraguay vs. Australia          │ Levi's Stadium (San Francisco)        │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO E                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 14 de Junio  │ Alemania vs. Curazao            │ NRG Stadium (Houston)                 │       
+       │ 14 de Junio  │ Costa de Marfil vs. Ecuador     │ Lincoln Financial Field (Filadelfia)  │       
+       │ 20 de Junio  │ Alemania vs. Costa de Marfil    │ BMO Field (Toronto)                   │       
+       │ 20 de Junio  │ Ecuador vs. Curazao             │ Arrowhead Stadium (Kansas City)       │       
+       │ 25 de Junio  │ Curazao vs. Costa de Marfil     │ Lincoln Financial Field (Filadelfia)  │       
+       │ 25 de Junio  │ Ecuador vs. Alemania            │ MetLife Stadium (NY/NJ)               │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO F                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 14 de Junio  │ Países Bajos vs. Japón          │ AT&T Stadium (Dallas)                 │       
+       │ 14 de Junio  │ Suecia vs. Túnez                │ Estadio BBVA (Monterrey)              │       
+       │ 20 de Junio  │ Países Bajos vs. Suecia         │ NRG Stadium (Houston)                 │       
+       │ 20 de Junio  │ Túnez vs. Japón                 │ Estadio BBVA (Monterrey)              │       
+       │ 25 de Junio  │ Japón vs. Suecia                │ AT&T Stadium (Dallas)                 │       
+       │ 25 de Junio  │ Túnez vs. Países Bajos          │ Arrowhead Stadium (Kansas City)       │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO G                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 15 de Junio  │ Bélgica vs. Egipto              │ Lumen Field (Seattle)                 │       
+       │ 15 de Junio  │ Irán vs. Nueva Zelanda          │ SoFi Stadium (Los Ángeles)            │       
+       │ 21 de Junio  │ Bélgica vs. Irán                │ SoFi Stadium (Los Ángeles)            │       
+       │ 21 de Junio  │ Nueva Zelanda vs. Egipto        │ BC Place (Vancouver)                  │       
+       │ 26 de Junio  │ Egipto vs. Irán                 │ Lumen Field (Seattle)                 │       
+       │ 26 de Junio  │ Nueva Zelanda vs. Bélgica       │ BC Place (Vancouver)                  │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO H                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 15 de Junio  │ España vs. Cabo Verde           │ Mercedes-Benz Stadium (Atlanta)       │       
+       │ 15 de Junio  │ Arabia Saudita vs. Uruguay      │ Hard Rock Stadium (Miami)             │       
+       │ 21 de Junio  │ España vs. Arabia Saudita       │ Mercedes-Benz Stadium (Atlanta)       │       
+       │ 21 de Junio  │ Uruguay vs. Cabo Verde          │ Hard Rock Stadium (Miami)             │       
+       │ 26 de Junio  │ Cabo Verde vs. Arabia Saudita   │ NRG Stadium (Houston)                 │       
+       │ 26 de Junio  │ Uruguay vs. España              │ Estadio Akron (Guadalajara)           │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO I                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 16 de Junio  │ Francia vs. Senegal             │ MetLife Stadium (NY/NJ)               │       
+       │ 16 de Junio  │ Irak vs. Noruega                │ Gillette Stadium (Boston)             │       
+       │ 22 de Junio  │ Francia vs. Irak                │ Lincoln Financial Field (Filadelfia)  │       
+       │ 22 de Junio  │ Noruega vs. Senegal             │ MetLife Stadium (NY/NJ)               │       
+       │ 26 de Junio  │ Noruega vs. Francia             │ Gillette Stadium (Boston)             │       
+       │ 26 de Junio  │ Senegal vs. Irak                │ BMO Field (Toronto)                   │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO J                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 16 de Junio  │ Argentina vs. Argelia           │ Arrowhead Stadium (Kansas City)       │       
+       │ 16 de Junio  │ Austria vs. Jordania            │ Levi's Stadium (San Francisco)        │       
+       │ 22 de Junio  │ Argentina vs. Austria           │ AT&T Stadium (Dallas)                 │       
+       │ 22 de Junio  │ Jordania vs. Argelia            │ Levi's Stadium (San Francisco)        │       
+       │ 27 de Junio  │ Argelia vs. Austria             │ Arrowhead Stadium (Kansas City)       │       
+       │ 27 de Junio  │ Jordania vs. Argentina          │ AT&T Stadium (Dallas)                 │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO K                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 17 de Junio  │ Portugal vs. RD Congo           │ NRG Stadium (Houston)                 │       
+       │ 17 de Junio  │ Uzbekistán vs. Colombia         │ Estadio Azteca (CDMX)                 │       
+       │ 23 de Junio  │ Portugal vs. Uzbekistán         │ NRG Stadium (Houston)                 │       
+       │ 23 de Junio  │ Colombia vs. RD Congo           │ Estadio Akron (Guadalajara)           │       
+       │ 27 de Junio  │ Colombia vs. Portugal           │ Hard Rock Stadium (Miami)             │       
+       │ 27 de Junio  │ RD Congo vs. Uzbekistán         │ Mercedes-Benz Stadium (Atlanta)       │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ GRUPO L                                                                                │       
+       ├──────────────┬─────────────────────────────────┬───────────────────────────────────────┤       
+       │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
+       ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
+       │ 17 de Junio  │ Inglaterra vs. Croacia          │ AT&T Stadium (Dallas)                 │       
+       │ 17 de Junio  │ Ghana vs. Panamá                │ BMO Field (Toronto)                   │       
+       │ 23 de Junio  │ Inglaterra vs. Ghana            │ Gillette Stadium (Boston)             │       
+       │ 23 de Junio  │ Panamá vs. Croacia              │ BMO Field (Toronto)                   │       
+       │ 27 de Junio  │ Panamá vs. Inglaterra           │ MetLife Stadium (NY/NJ)               │       
+       │ 27 de Junio  │ Croacia vs. Ghana               │ Lincoln Financial Field (Filadelfia)  │       
+       └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+                           🌿 DIAGRAMA ESTRUCTURAL DE LAS LLAVES (FASE FINAL)                            
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+
+     DIECISEISAVOS                 OCTAVOS                CUARTOS               SEMIFINAL               FINAL
+     
+ [P74] 1E vs 3A/B/C/D/F ──┐
+                         ├─── [P89] Ganador 74/77 ──┐
+ [P77] 1I vs 3C/D/F/G/H ──┘                          │
+                                                     ├─── [P97] Ganador 89/90 ──┐
+ [P73] 2A vs 2B ──────────┐                          │                          │
+                         ├─── [P90] Ganador 73/75 ──┘                          │
+ [P75] 1F vs 2C ──────────┘                                                     │
+                                                                                ├─── [P101] Ganador 97/98 ──┐
+ [P83] 2K vs 2L ──────────┐                                                     │                           │
+                         ├─── [P93] Ganador 83/84 ──┐                          │                           │
+ [P84] 1H vs 2J ──────────┘                          │                          │                           │
+                                                     ├─── [P98] Ganador 93/94 ──┘                           │
+ [P81] 1D vs 3B/E/F/I/J ──┐                          │                                                      │
+                         ├─── [P94] Ganador 81/82 ──┘                                                      │
+ [P82] 1G vs 3A/E/H/I/J ──┘                                                                                 │
+                                                                                                            ├─── [P104] FINAL
+ [P76] 1C vs 2F ──────────┐                                                                                 │    METLIFE STADIUM
+                         ├─── [P91] Ganador 76/78 ──┐                                                      │    (19 DE JULIO)
+ [P78] 2E vs 2I ──────────┘                          │                                                      │
+                                                     ├─── [P99] Ganador 91/92 ──┐                           │
+ [P79] 1A vs 3C/E/F/H/I ──┐                          │                          │                           │
+                         ├─── [P92] Ganador 79/80 ──┘                          │                           │
+ [P80] 1L vs 3E/H/I/J/K ──┘                                                     │                           │
+                                                                                ├─── [P102] Ganador 99/100 ─┘
+ [P86] 1J vs 2H ──────────┐                                                     │
+                         ├─── [P95] Ganador 86/88 ──┐                          │
+ [P88] 2D vs 2G ──────────┘                          │                          │
+                                                     ├─── [P100] Ganador 95/96 ─┘
+ [P85] 1B vs 3E/F/G/I/J ──┐                          │
+                         ├─── [P96] Ganador 85/87 ──┘
+ [P87] 1K vs 3D/E/I/J/L ──┘
+ 
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────
+ [P103] TERCER PUESTO: Perdedor P101 vs Perdedor P102  -->  Hard Rock Stadium (Miami) - 18 de Julio
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+                                 🏆 DETALLE DE PARTIDOS DE LA FASE FINAL                                 
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ DIECISEISAVOS DE FINAL (RONDA DE 32)                                                   │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+       │ FECHA    │ CRUCE / LLAVE                              │ ESTADIO / SEDE                 │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+       │ 28 Jun   │ [P73] 2º Grupo A vs. 2º Grupo B            │ SoFi Stadium (Los Ángeles)     │       
+       │ 29 Jun   │ [P74] 1º Grupo E vs. 3º Grupo A/B/C/D/F    │ Gillette Stadium (Boston)      │       
+       │ 29 Jun   │ [P75] 1º Grupo F vs. 2º Grupo C            │ Estadio BBVA (Monterrey)       │       
+       │ 29 Jun   │ [P76] 1º Grupo C vs. 2º Grupo F            │ NRG Stadium (Houston)          │       
+       │ 30 Jun   │ [P77] 1º Grupo I vs. 3º Grupo C/D/F/G/H    │ MetLife Stadium (NY/NJ)        │       
+       │ 30 Jun   │ [P78] 2º Grupo E vs. 2º Grupo I            │ AT&T Stadium (Dallas)          │       
+       │ 30 Jun   │ [P79] 1º Grupo A vs. 3º Grupo C/E/F/H/I    │ Estadio Azteca (CDMX)          │       
+      │ 01 Jul   │ [P80] 1º Grupo L vs. 3º Grupo E/H/I/J/K    │ Mercedes-Benz Stadium (Atlanta) │       
+       │ 01 Jul   │ [P81] 1º Grupo D vs. 3º Grupo B/E/F/I/J    │ Levi's Stadium (San Francisco) │       
+       │ 01 Jul   │ [P82] 1º Grupo G vs. 3º Grupo A/E/H/I/J    │ Lumen Field (Seattle)          │       
+       │ 02 Jul   │ [P83] 2º Grupo K vs. 2º Grupo L            │ BMO Field (Toronto)            │       
+       │ 02 Jul   │ [P84] 1º Grupo H vs. 2º Grupo J            │ SoFi Stadium (Los Ángeles)     │       
+       │ 02 Jul   │ [P85] 1º Grupo B vs. 3º Grupo E/F/G/I/J    │ BC Place (Vancouver)           │       
+       │ 03 Jul   │ [P86] 1º Grupo J vs. 2º Grupo H            │ Hard Rock Stadium (Miami)      │       
+      │ 03 Jul   │ [P87] 1º Grupo K vs. 3º Grupo D/E/I/J/L    │ Arrowhead Stadium (Kansas City) │       
+       │ 03 Jul   │ [P88] 2º Grupo D vs. 2º Grupo G            │ AT&T Stadium (Dallas)          │       
+       └──────────┴────────────────────────────────────────────┴────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ OCTAVOS DE FINAL                                                                       │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+       │ FECHA    │ CRUCE / LLAVE                              │ ESTADIO / SEDE                 │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+    │ 04 Jul   │ [P89] Ganador P74 vs. Ganador P77          │ Lincoln Financial Field (Filadelfia) │    
+       │ 04 Jul   │ [P90] Ganador P73 vs. Ganador P75          │ NRG Stadium (Houston)          │       
+       │ 05 Jul   │ [P91] Ganador P76 vs. Ganador P78          │ MetLife Stadium (NY/NJ)        │       
+       │ 05 Jul   │ [P92] Ganador P79 vs. Ganador P80          │ Estadio Azteca (CDMX)          │       
+       │ 06 Jul   │ [P93] Ganador P83 vs. Ganador P84          │ AT&T Stadium (Dallas)          │       
+       │ 06 Jul   │ [P94] Ganador P81 vs. Ganador P82          │ Lumen Field (Seattle)          │       
+      │ 07 Jul   │ [P95] Ganador P86 vs. Ganador P88          │ Mercedes-Benz Stadium (Atlanta) │       
+       │ 07 Jul   │ [P96] Ganador P85 vs. Ganador P87          │ BC Place (Vancouver)           │       
+       └──────────┴────────────────────────────────────────────┴────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ CUARTOS DE FINAL                                                                       │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+       │ FECHA    │ CRUCE / LLAVE                              │ ESTADIO / SEDE                 │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+       │ 09 Jul   │ [P97] Ganador P89 vs. Ganador P90          │ Gillette Stadium (Boston)      │       
+       │ 10 Jul   │ [P98] Ganador P93 vs. Ganador P94          │ SoFi Stadium (Los Ángeles)     │       
+       │ 11 Jul   │ [P99] Ganador P91 vs. Ganador P92          │ Hard Rock Stadium (Miami)      │       
+      │ 11 Jul   │ [P100] Ganador P95 vs. Ganador P96         │ Arrowhead Stadium (Kansas City) │       
+       └──────────┴────────────────────────────────────────────┴────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ SEMIFINALES                                                                            │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+       │ FECHA    │ CRUCE / LLAVE                              │ ESTADIO / SEDE                 │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+       │ 14 Jul   │ [P101] Ganador P97 vs. Ganador P98         │ AT&T Stadium (Dallas)          │       
+      │ 15 Jul   │ [P102] Ganador P99 vs. Ganador P100        │ Mercedes-Benz Stadium (Atlanta) │       
+       └──────────┴────────────────────────────────────────────┴────────────────────────────────┘       
+
+       ┌────────────────────────────────────────────────────────────────────────────────────────┐       
+       │ TERCER PUESTO Y GRAN FINAL                                                             │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+       │ FECHA    │ CRUCE / LLAVE                              │ ESTADIO / SEDE                 │       
+       ├──────────┬────────────────────────────────────────────┬────────────────────────────────┤       
+   │ 18 Jul   │ [P103] 3º PUESTO: Perdedor P101 vs. Perdedor P102 │ Hard Rock Stadium (Miami)      │    
+      │ 19 Jul   │ [P104] FINAL: Ganador P101 vs. Ganador P102 │ MetLife Stadium (NY/NJ)        │       
+       └──────────┴────────────────────────────────────────────┴────────────────────────────────┘       
+
+════════════════════════════════════════════════════════════════════════════════════════════════════════
+                            FIN DEL DOCUMENTO OFICIAL - FIFA WORLD CUP 2026                             
+════════════════════════════════════════════════════════════════════════════════════════════════════════
