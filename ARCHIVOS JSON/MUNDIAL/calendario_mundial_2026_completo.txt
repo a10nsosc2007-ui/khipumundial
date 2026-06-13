@@ -42,11 +42,11 @@
        │ FECHA        │ PARTIDO                         │ ESTADIO / SEDE                        │       
        ├──────────────┼─────────────────────────────────┼───────────────────────────────────────┤       
        │ 12 de Junio  │ Canadá vs. Bosnia y Herzegovina │ BMO Field (Toronto)                   │       
-       │ 13 de Junio  │ Catar vs. Suiza                 │ Levi's Stadium (San Francisco)        │       
+       │ 13 de Junio  │ Qatar vs. Suiza                 │ Levi's Stadium (San Francisco)        │       
        │ 18 de Junio  │ Suiza vs. Bosnia y Herzegovina  │ SoFi Stadium (Los Ángeles)            │       
-       │ 18 de Junio  │ Canadá vs. Catar                │ BC Place (Vancouver)                  │       
+       │ 18 de Junio  │ Canadá vs. Qatar                │ BC Place (Vancouver)                  │       
        │ 24 de Junio  │ Suiza vs. Canadá                │ BC Place (Vancouver)                  │       
-       │ 24 de Junio  │ Bosnia vs. Catar                │ Lumen Field (Seattle)                 │       
+       │ 24 de Junio  │ Bosnia vs. Qatar                │ Lumen Field (Seattle)                 │       
        └──────────────┴─────────────────────────────────┴───────────────────────────────────────┘       
 
        ┌────────────────────────────────────────────────────────────────────────────────────────┐       
